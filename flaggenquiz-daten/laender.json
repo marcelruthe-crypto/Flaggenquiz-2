@@ -1,0 +1,12051 @@
+[
+ {
+  "code": "de",
+  "name": "Deutschland",
+  "von": "von Deutschland",
+  "rang": 1,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/de.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ug",
+   "pg",
+   "be",
+   "mz",
+   "ao",
+   "mw",
+   "al",
+   "ag"
+  ]
+ },
+ {
+  "code": "jp",
+  "name": "Japan",
+  "von": "von Japan",
+  "rang": 2,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/jp.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.7724
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bc002d",
+    "anteil": 0.2276
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.772
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bc002d",
+    "anteil": 0.228
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "gb-eng",
+   "kr",
+   "cy",
+   "gb-nir",
+   "gl",
+   "fo",
+   "pl",
+   "mt"
+  ]
+ },
+ {
+  "code": "fr",
+  "name": "Frankreich",
+  "von": "von Frankreich",
+  "rang": 3,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/fr.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#000091",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e1000f",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#000091",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e1000f",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pa",
+   "tw",
+   "lr",
+   "pr",
+   "my",
+   "cl",
+   "cr",
+   "si"
+  ]
+ },
+ {
+  "code": "it",
+  "name": "Italien",
+  "von": "von Italien",
+  "rang": 4,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/it.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#009246",
+    "anteil": 0.3336
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce2b37",
+    "anteil": 0.3328
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3328
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#009246",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce2b37",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "mx",
+   "ie",
+   "pe",
+   "dz",
+   "ng",
+   "mt",
+   "sr",
+   "bi"
+  ]
+ },
+ {
+  "code": "us",
+  "name": "USA",
+  "von": "von den USA",
+  "rang": 5,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/us.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.37
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bd3d44",
+    "anteil": 0.3618
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#192f5d",
+    "anteil": 0.2652
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.371
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bd3d44",
+    "anteil": 0.363
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#192f5d",
+    "anteil": 0.266
+   }
+  ],
+  "sterne": 50,
+  "aehnliche_flaggen": [
+   "do",
+   "rs",
+   "th",
+   "cz",
+   "kr",
+   "no",
+   "lv",
+   "la"
+  ]
+ },
+ {
+  "code": "ch",
+  "name": "Schweiz",
+  "von": "von der Schweiz",
+  "rang": 6,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ch.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.8506
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1494
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.851
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.149
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tn",
+   "kg",
+   "tr",
+   "al",
+   "hk",
+   "pe",
+   "cn",
+   "id"
+  ]
+ },
+ {
+  "code": "at",
+  "name": "Österreich",
+  "von": "von Österreich",
+  "rang": 7,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/at.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.6667
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.667
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "dk",
+   "lv",
+   "bh",
+   "hk",
+   "gl",
+   "mt",
+   "lb",
+   "pl"
+  ]
+ },
+ {
+  "code": "gb",
+  "name": "Großbritannien",
+  "von": "von Großbritannien",
+  "rang": 8,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/gb.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.4262
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3628
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#012169",
+    "anteil": 0.211
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.426
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.363
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#012169",
+    "anteil": 0.211
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gb-eng",
+   "fo",
+   "gb-nir",
+   "jp",
+   "kr",
+   "cu",
+   "gl",
+   "cl"
+  ]
+ },
+ {
+  "code": "es",
+  "name": "Spanien",
+  "von": "von Spanien",
+  "rang": 9,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/es.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#aa151b",
+    "anteil": 0.5274
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f1bf00",
+    "anteil": 0.4529
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#cccccc",
+    "anteil": 0.0149
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#aa151b",
+    "anteil": 0.53
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f1bf00",
+    "anteil": 0.455
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#cccccc",
+    "anteil": 0.015
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "me",
+   "tl",
+   "vn",
+   "mk",
+   "ma",
+   "gh",
+   "gd",
+   "bo"
+  ]
+ },
+ {
+  "code": "ca",
+  "name": "Kanada",
+  "von": "von Kanada",
+  "rang": 10,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/ca.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.5681
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4319
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.568
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.432
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "pe",
+   "tr",
+   "to",
+   "gb-eng",
+   "mc",
+   "id",
+   "mt",
+   "hk"
+  ]
+ },
+ {
+  "code": "nl",
+  "name": "Niederlande",
+  "von": "von den Niederlanden",
+  "rang": 11,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/nl.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#21468b",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ae1c28",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#21468b",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ae1c28",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "py",
+   "do",
+   "at",
+   "lu",
+   "rs",
+   "ki",
+   "la",
+   "bz"
+  ]
+ },
+ {
+  "code": "dk",
+  "name": "Dänemark",
+  "von": "von Dänemark",
+  "rang": 12,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/dk.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.7639
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2329
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.766
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.234
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "at",
+   "mt",
+   "pe",
+   "bh",
+   "hk",
+   "lv",
+   "gl",
+   "tr"
+  ]
+ },
+ {
+  "code": "br",
+  "name": "Brasilien",
+  "von": "von Brasilien",
+  "rang": 13,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/br.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#229e45",
+    "anteil": 0.6185
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f8e509",
+    "anteil": 0.2204
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#2b49a3",
+    "anteil": 0.1454
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0157
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#229e45",
+    "anteil": 0.619
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f8e509",
+    "anteil": 0.22
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#2b49a3",
+    "anteil": 0.145
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.016
+   }
+  ],
+  "sterne": 27,
+  "aehnliche_flaggen": [
+   "ga",
+   "vc",
+   "tm",
+   "mu",
+   "dm",
+   "st",
+   "gy",
+   "et"
+  ]
+ },
+ {
+  "code": "se",
+  "name": "Schweden",
+  "von": "von Schweden",
+  "rang": 14,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/se.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#005293",
+    "anteil": 0.68
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fecb00",
+    "anteil": 0.32
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#005293",
+    "anteil": 0.68
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fecb00",
+    "anteil": 0.32
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "nr",
+   "ua",
+   "xk",
+   "bb",
+   "mh",
+   "ga",
+   "fm",
+   "vc"
+  ]
+ },
+ {
+  "code": "cn",
+  "name": "China",
+  "von": "von China",
+  "rang": 15,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/cn.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ee1c25",
+    "anteil": 0.9719
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.0281
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ee1c25",
+    "anteil": 0.972
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.028
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "vn",
+   "tr",
+   "hk",
+   "tn",
+   "kg",
+   "ma",
+   "to",
+   "mk"
+  ]
+ },
+ {
+  "code": "pl",
+  "name": "Polen",
+  "von": "von Polen",
+  "rang": 16,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/pl.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#dc143c",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#dc143c",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gl",
+   "cl",
+   "jp",
+   "at",
+   "gb-eng",
+   "dk",
+   "mt",
+   "bh"
+  ]
+ },
+ {
+  "code": "tr",
+  "name": "Türkei",
+  "von": "von der Türkei",
+  "rang": 17,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/tr.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#e30a17",
+    "anteil": 0.9315
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0685
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#e30a17",
+    "anteil": 0.931
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.069
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "tn",
+   "cn",
+   "hk",
+   "to",
+   "vn",
+   "ch",
+   "pe",
+   "bh"
+  ]
+ },
+ {
+  "code": "gb-eng",
+  "name": "England",
+  "von": "von England",
+  "rang": 18,
+  "kategorie": "gebiet",
+  "kontinent": "Europa",
+  "flagge": "flaggen/gb-eng.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.7386
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1124",
+    "anteil": 0.2614
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.739
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1124",
+    "anteil": 0.261
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gb-nir",
+   "jp",
+   "ge",
+   "cy",
+   "fo",
+   "kr",
+   "mt",
+   "gl"
+  ]
+ },
+ {
+  "code": "no",
+  "name": "Norwegen",
+  "von": "von Norwegen",
+  "rang": 19,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/no.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ed2939",
+    "anteil": 0.6094
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002664",
+    "anteil": 0.207
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1836
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ed2939",
+    "anteil": 0.609
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002664",
+    "anteil": 0.207
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.184
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "la",
+   "hk",
+   "at",
+   "do",
+   "dk",
+   "pe",
+   "tr",
+   "sk"
+  ]
+ },
+ {
+  "code": "gr",
+  "name": "Griechenland",
+  "von": "von Griechenland",
+  "rang": 20,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/gr.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0d5eaf",
+    "anteil": 0.5643
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4343
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0d5eaf",
+    "anteil": 0.565
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.435
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ni",
+   "gb-sct",
+   "mh",
+   "sv",
+   "fi",
+   "fm",
+   "kr",
+   "gt"
+  ]
+ },
+ {
+  "code": "fi",
+  "name": "Finnland",
+  "von": "von Finnland",
+  "rang": 21,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/fi.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5783
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002f6c",
+    "anteil": 0.4217
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.578
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002f6c",
+    "anteil": 0.422
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "fo",
+   "kr",
+   "gb-sct",
+   "gr",
+   "uy",
+   "cy",
+   "th",
+   "rs"
+  ]
+ },
+ {
+  "code": "be",
+  "name": "Belgien",
+  "von": "von Belgien",
+  "rang": 22,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/be.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#f31830",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd90c",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#f31830",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd90c",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tl",
+   "pg",
+   "td",
+   "de",
+   "ao",
+   "md",
+   "ag",
+   "ug"
+  ]
+ },
+ {
+  "code": "ie",
+  "name": "Irland",
+  "von": "von Irland",
+  "rang": 23,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ie.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#009a49",
+    "anteil": 0.3336
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff7900",
+    "anteil": 0.3336
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3328
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#009a49",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff7900",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "it",
+   "ci",
+   "ng",
+   "in",
+   "dz",
+   "ne",
+   "hu",
+   "cy"
+  ]
+ },
+ {
+  "code": "pt",
+  "name": "Portugal",
+  "von": "von Portugal",
+  "rang": 24,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/pt.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.5741
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006600",
+    "anteil": 0.3563
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.0364
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0191
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0101
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#003399",
+    "anteil": 0.0041
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.576
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006600",
+    "anteil": 0.358
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.037
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.019
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.01
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ml",
+   "sn",
+   "bj",
+   "kg",
+   "al",
+   "bf",
+   "ch",
+   "cn"
+  ]
+ },
+ {
+  "code": "ru",
+  "name": "Russland",
+  "von": "von Russland",
+  "rang": 25,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ru.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0039a6",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0039a6",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sk",
+   "cl",
+   "fo",
+   "cz",
+   "ph",
+   "si",
+   "ht",
+   "la"
+  ]
+ },
+ {
+  "code": "ua",
+  "name": "Ukraine",
+  "von": "von der Ukraine",
+  "rang": 26,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ua.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0057b8",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd700",
+    "anteil": 0.5
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0057b8",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd700",
+    "anteil": 0.5
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "se",
+   "xk",
+   "bb",
+   "nr",
+   "cv",
+   "cd",
+   "vc",
+   "ro"
+  ]
+ },
+ {
+  "code": "au",
+  "name": "Australien",
+  "von": "von Australien",
+  "rang": 27,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/au.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#00008b",
+    "anteil": 0.752
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1415
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.1066
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#00008b",
+    "anteil": 0.752
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.141
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.107
+   }
+  ],
+  "sterne": 6,
+  "aehnliche_flaggen": [
+   "hr",
+   "nz",
+   "pa",
+   "fr",
+   "cr",
+   "cv",
+   "kh",
+   "cu"
+  ]
+ },
+ {
+  "code": "kr",
+  "name": "Südkorea",
+  "von": "von Südkorea",
+  "rang": 28,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/kr.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.7632
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0896
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0047a0",
+    "anteil": 0.0736
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cd2e3a",
+    "anteil": 0.0735
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.763
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.09
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0047a0",
+    "anteil": 0.074
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cd2e3a",
+    "anteil": 0.074
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "jp",
+   "cy",
+   "gb-eng",
+   "fo",
+   "gb-nir",
+   "fi",
+   "il",
+   "uy"
+  ]
+ },
+ {
+  "code": "in",
+  "name": "Indien",
+  "von": "von Indien",
+  "rang": 29,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/in.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#128807",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff9933",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3141
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000088",
+    "anteil": 0.0192
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#128807",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff9933",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.314
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000088",
+    "anteil": 0.019
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ne",
+   "hu",
+   "tj",
+   "uz",
+   "ci",
+   "ie",
+   "dm",
+   "cy"
+  ]
+ },
+ {
+  "code": "mx",
+  "name": "Mexiko",
+  "von": "von Mexiko",
+  "rang": 30,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/mx.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#006847",
+    "anteil": 0.3337
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3337
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2999
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#8f4620",
+    "anteil": 0.0117
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#4d2a15",
+    "anteil": 0.007
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#9ca168",
+    "anteil": 0.0062
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#006847",
+    "anteil": 0.341
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.341
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.306
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#8f4620",
+    "anteil": 0.012
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "it",
+   "dz",
+   "pe",
+   "mt",
+   "ca",
+   "ng",
+   "bg",
+   "bh"
+  ]
+ },
+ {
+  "code": "ar",
+  "name": "Argentinien",
+  "von": "von Argentinien",
+  "rang": 31,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/ar.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#74acdf",
+    "anteil": 0.6667
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3082
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f6b40e",
+    "anteil": 0.0141
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#85340a",
+    "anteil": 0.011
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#74acdf",
+    "anteil": 0.667
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.308
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f6b40e",
+    "anteil": 0.014
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#85340a",
+    "anteil": 0.011
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "hn",
+   "fm",
+   "gt",
+   "so",
+   "bw",
+   "sm",
+   "lc",
+   "lu"
+  ]
+ },
+ {
+  "code": "hr",
+  "name": "Kroatien",
+  "von": "von Kroatien",
+  "rang": 32,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/hr.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3492
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#171796",
+    "anteil": 0.3283
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2993
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#0093dd",
+    "anteil": 0.0193
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f7db17",
+    "anteil": 0.004
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.351
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#171796",
+    "anteil": 0.33
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#0093dd",
+    "anteil": 0.019
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "py",
+   "au",
+   "pa",
+   "fr",
+   "tw",
+   "pr",
+   "kh",
+   "cu"
+  ]
+ },
+ {
+  "code": "cz",
+  "name": "Tschechien",
+  "von": "von Tschechien",
+  "rang": 33,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/cz.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d7141a",
+    "anteil": 0.3594
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3594
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#11457e",
+    "anteil": 0.2812
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d7141a",
+    "anteil": 0.359
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.359
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#11457e",
+    "anteil": 0.281
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sk",
+   "cl",
+   "pl",
+   "ru",
+   "la",
+   "gl",
+   "no",
+   "fo"
+  ]
+ },
+ {
+  "code": "hu",
+  "name": "Ungarn",
+  "von": "von Ungarn",
+  "rang": 34,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/hu.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#388d00",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d43516",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#388d00",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d43516",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ne",
+   "tj",
+   "by",
+   "in",
+   "uz",
+   "lb",
+   "mg",
+   "at"
+  ]
+ },
+ {
+  "code": "is",
+  "name": "Island",
+  "von": "von Island",
+  "rang": 35,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/is.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#003897",
+    "anteil": 0.6472
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d72828",
+    "anteil": 0.1841
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1625
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#003897",
+    "anteil": 0.651
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d72828",
+    "anteil": 0.185
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.164
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "nz",
+   "sv",
+   "cv",
+   "kh",
+   "py",
+   "cu",
+   "nr",
+   "xk"
+  ]
+ },
+ {
+  "code": "gb-sct",
+  "name": "Schottland",
+  "von": "von Schottland",
+  "rang": 36,
+  "kategorie": "gebiet",
+  "kontinent": "Europa",
+  "flagge": "flaggen/gb-sct.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0065bd",
+    "anteil": 0.5878
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4122
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0065bd",
+    "anteil": 0.588
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.412
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gr",
+   "ni",
+   "mh",
+   "fi",
+   "so",
+   "sv",
+   "fm",
+   "gt"
+  ]
+ },
+ {
+  "code": "lu",
+  "name": "Luxemburg",
+  "von": "von Luxemburg",
+  "rang": 37,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/lu.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00a1de",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ed2939",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00a1de",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ed2939",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "at",
+   "mc",
+   "nl",
+   "ki",
+   "py",
+   "tv",
+   "ar",
+   "id"
+  ]
+ },
+ {
+  "code": "eg",
+  "name": "Ägypten",
+  "von": "von Ägypten",
+  "rang": 38,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/eg.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3119
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#c09300",
+    "anteil": 0.0215
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.312
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#c09300",
+    "anteil": 0.021
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "iq",
+   "ye",
+   "sd",
+   "sy",
+   "at",
+   "tl",
+   "nl",
+   "ae"
+  ]
+ },
+ {
+  "code": "za",
+  "name": "Südafrika",
+  "von": "von Südafrika",
+  "rang": 39,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/za.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#007847",
+    "anteil": 0.3334
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e1392d",
+    "anteil": 0.1966
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000c8a",
+    "anteil": 0.1964
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1174
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.098
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffb915",
+    "anteil": 0.0581
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#007847",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e1392d",
+    "anteil": 0.197
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000c8a",
+    "anteil": 0.196
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.117
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.098
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffb915",
+    "anteil": 0.058
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "iq",
+   "py",
+   "gh",
+   "sc",
+   "hr",
+   "sy",
+   "mx",
+   "mg"
+  ]
+ },
+ {
+  "code": "il",
+  "name": "Israel",
+  "von": "von Israel",
+  "rang": 40,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/il.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.6905
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0038b8",
+    "anteil": 0.3065
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.693
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0038b8",
+    "anteil": 0.307
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "uy",
+   "sv",
+   "kr",
+   "cy",
+   "fo",
+   "ls",
+   "fi",
+   "cv"
+  ]
+ },
+ {
+  "code": "ng",
+  "name": "Nigeria",
+  "von": "von Nigeria",
+  "rang": 41,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ng.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#008753",
+    "anteil": 0.6672
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3328
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#008753",
+    "anteil": 0.667
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sa",
+   "dz",
+   "it",
+   "ie",
+   "ci",
+   "pk",
+   "mx",
+   "sy"
+  ]
+ },
+ {
+  "code": "ma",
+  "name": "Marokko",
+  "von": "von Marokko",
+  "rang": 42,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ma.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c1272d",
+    "anteil": 0.9803
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006233",
+    "anteil": 0.0197
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c1272d",
+    "anteil": 0.98
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006233",
+    "anteil": 0.02
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "vn",
+   "cn",
+   "hk",
+   "dk",
+   "tr",
+   "to",
+   "bh",
+   "ws"
+  ]
+ },
+ {
+  "code": "th",
+  "name": "Thailand",
+  "von": "von Thailand",
+  "rang": 43,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/th.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#a51931",
+    "anteil": 0.3385
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#2d2a4a",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#f4f5f8",
+    "anteil": 0.3281
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#a51931",
+    "anteil": 0.339
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#2d2a4a",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#f4f5f8",
+    "anteil": 0.328
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "rs",
+   "la",
+   "us",
+   "fi",
+   "lv",
+   "cz",
+   "no",
+   "kr"
+  ]
+ },
+ {
+  "code": "nz",
+  "name": "Neuseeland",
+  "von": "von Neuseeland",
+  "rang": 44,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/nz.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#00247d",
+    "anteil": 0.7876
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.1132
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0992
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#00247d",
+    "anteil": 0.788
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.113
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.099
+   }
+  ],
+  "sterne": 4,
+  "aehnliche_flaggen": [
+   "nr",
+   "is",
+   "cv",
+   "cu",
+   "au",
+   "xk",
+   "py",
+   "sv"
+  ]
+ },
+ {
+  "code": "rs",
+  "name": "Serbien",
+  "von": "von Serbien",
+  "rang": 45,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/rs.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3716
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c6363c",
+    "anteil": 0.3474
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0c4076",
+    "anteil": 0.2406
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#edb92e",
+    "anteil": 0.0228
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#21231e",
+    "anteil": 0.0175
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.372
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c6363c",
+    "anteil": 0.347
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0c4076",
+    "anteil": 0.241
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#edb92e",
+    "anteil": 0.023
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#21231e",
+    "anteil": 0.018
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "th",
+   "nl",
+   "ki",
+   "la",
+   "mc",
+   "kr",
+   "us",
+   "fo"
+  ]
+ },
+ {
+  "code": "ro",
+  "name": "Rumänien",
+  "von": "von Rumänien",
+  "rang": 46,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ro.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#00319c",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde00",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#00319c",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde00",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "md",
+   "td",
+   "ad",
+   "co",
+   "bb",
+   "am",
+   "be",
+   "ve"
+  ]
+ },
+ {
+  "code": "bg",
+  "name": "Bulgarien",
+  "von": "von Bulgarien",
+  "rang": 47,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/bg.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#00966e",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d62612",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#00966e",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d62612",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pl",
+   "lb",
+   "gl",
+   "to",
+   "cl",
+   "sk",
+   "mx",
+   "ru"
+  ]
+ },
+ {
+  "code": "sk",
+  "name": "Slowakei",
+  "von": "von der Slowakei",
+  "rang": 48,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/sk.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ee1c25",
+    "anteil": 0.398
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3429
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0b4ea2",
+    "anteil": 0.2591
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ee1c25",
+    "anteil": 0.398
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.343
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0b4ea2",
+    "anteil": 0.259
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ru",
+   "cz",
+   "cl",
+   "pl",
+   "fo",
+   "gl",
+   "la",
+   "no"
+  ]
+ },
+ {
+  "code": "si",
+  "name": "Slowenien",
+  "von": "von Slowenien",
+  "rang": 49,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/si.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0000bf",
+    "anteil": 0.3458
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d50000",
+    "anteil": 0.3394
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.314
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0000bf",
+    "anteil": 0.346
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d50000",
+    "anteil": 0.34
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.314
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ru",
+   "cl",
+   "pa",
+   "pr",
+   "fr",
+   "sk",
+   "tw",
+   "cr"
+  ]
+ },
+ {
+  "code": "co",
+  "name": "Kolumbien",
+  "von": "von Kolumbien",
+  "rang": 50,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/co.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe800",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00148e",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da0010",
+    "anteil": 0.25
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe800",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00148e",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da0010",
+    "anteil": 0.25
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ec",
+   "ve",
+   "ro",
+   "ad",
+   "md",
+   "mk",
+   "ba",
+   "li"
+  ]
+ },
+ {
+  "code": "cl",
+  "name": "Chile",
+  "von": "von Chile",
+  "rang": 51,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/cl.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.328
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0039a6",
+    "anteil": 0.172
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.328
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0039a6",
+    "anteil": 0.172
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "ru",
+   "pl",
+   "cz",
+   "ht",
+   "sk",
+   "lr",
+   "ph",
+   "gl"
+  ]
+ },
+ {
+  "code": "pe",
+  "name": "Peru",
+  "von": "von Peru",
+  "rang": 52,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/pe.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d91023",
+    "anteil": 0.6672
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3328
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d91023",
+    "anteil": 0.667
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "hk",
+   "ca",
+   "tn",
+   "tr",
+   "dk",
+   "to",
+   "mt",
+   "mc"
+  ]
+ },
+ {
+  "code": "uy",
+  "name": "Uruguay",
+  "von": "von Uruguay",
+  "rang": 53,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/uy.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5912
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0038a8",
+    "anteil": 0.3499
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.0356
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0177
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#7f9bd3",
+    "anteil": 0.0057
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.595
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0038a8",
+    "anteil": 0.352
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.036
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.018
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "il",
+   "kr",
+   "fo",
+   "fi",
+   "sv",
+   "gb-sct",
+   "cy",
+   "cv"
+  ]
+ },
+ {
+  "code": "cu",
+  "name": "Kuba",
+  "von": "von Kuba",
+  "rang": 54,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/cu.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#002a8f",
+    "anteil": 0.4302
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cb1515",
+    "anteil": 0.3015
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.267
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#002a8f",
+    "anteil": 0.431
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cb1515",
+    "anteil": 0.302
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.267
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "kh",
+   "cv",
+   "nz",
+   "fo",
+   "is",
+   "py",
+   "cl",
+   "np"
+  ]
+ },
+ {
+  "code": "jm",
+  "name": "Jamaika",
+  "von": "von Jamaika",
+  "rang": 55,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/jm.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.3379
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.3312
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3309
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.338
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.331
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.331
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "st",
+   "mz",
+   "gy",
+   "zm",
+   "dm",
+   "vu",
+   "kn",
+   "tz"
+  ]
+ },
+ {
+  "code": "vn",
+  "name": "Vietnam",
+  "von": "von Vietnam",
+  "rang": 56,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/vn.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#da251d",
+    "anteil": 0.9217
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.0783
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#da251d",
+    "anteil": 0.922
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.078
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "cn",
+   "tr",
+   "hk",
+   "ma",
+   "tn",
+   "kg",
+   "mk",
+   "to"
+  ]
+ },
+ {
+  "code": "id",
+  "name": "Indonesien",
+  "von": "von Indonesien",
+  "rang": 57,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/id.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#e70011",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#e70011",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sg",
+   "mc",
+   "tn",
+   "tr",
+   "gb-nir",
+   "ge",
+   "ca",
+   "gb-eng"
+  ]
+ },
+ {
+  "code": "ph",
+  "name": "Philippinen",
+  "von": "von den Philippinen",
+  "rang": 58,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/ph.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0038a8",
+    "anteil": 0.3376
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3376
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.271
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.0538
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0038a8",
+    "anteil": 0.338
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.338
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.271
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.054
+   }
+  ],
+  "sterne": 3,
+  "aehnliche_flaggen": [
+   "ht",
+   "cl",
+   "li",
+   "ru",
+   "cv",
+   "kh",
+   "is",
+   "sk"
+  ]
+ },
+ {
+  "code": "sa",
+  "name": "Saudi-Arabien",
+  "von": "von Saudi-Arabien",
+  "rang": 59,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/sa.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#165d31",
+    "anteil": 0.918
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.082
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#165d31",
+    "anteil": 0.918
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.082
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pk",
+   "ng",
+   "dz",
+   "bd",
+   "tm",
+   "mr",
+   "sy",
+   "mx"
+  ]
+ },
+ {
+  "code": "gb-wls",
+  "name": "Wales",
+  "von": "von Wales",
+  "rang": 60,
+  "kategorie": "gebiet",
+  "kontinent": "Europa",
+  "flagge": "flaggen/gb-wls.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#00ab39",
+    "anteil": 0.3675
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3483
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.2409
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0432
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#00ab39",
+    "anteil": 0.368
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.348
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.241
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.043
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "om",
+   "ps",
+   "by",
+   "hu",
+   "uz",
+   "ke",
+   "jp",
+   "mg"
+  ]
+ },
+ {
+  "code": "ir",
+  "name": "Iran",
+  "von": "vom Iran",
+  "rang": 61,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/ir.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3474
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da0000",
+    "anteil": 0.3353
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#239f40",
+    "anteil": 0.3134
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.349
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da0000",
+    "anteil": 0.337
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#239f40",
+    "anteil": 0.315
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gq",
+   "lb",
+   "bi",
+   "at",
+   "tj",
+   "hu",
+   "ae",
+   "sy"
+  ]
+ },
+ {
+  "code": "pk",
+  "name": "Pakistan",
+  "von": "von Pakistan",
+  "rang": 62,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/pk.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#0c590b",
+    "anteil": 0.7338
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2662
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#0c590b",
+    "anteil": 0.734
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.266
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "sa",
+   "ng",
+   "mg",
+   "dz",
+   "tm",
+   "sy",
+   "tj",
+   "zw"
+  ]
+ },
+ {
+  "code": "ke",
+  "name": "Kenia",
+  "von": "von Kenia",
+  "rang": 63,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ke.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.304
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bb0000",
+    "anteil": 0.2998
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006600",
+    "anteil": 0.2878
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1084
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.304
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bb0000",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006600",
+    "anteil": 0.288
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.108
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "eh",
+   "mw",
+   "ps",
+   "jo",
+   "ss",
+   "by",
+   "gb-wls",
+   "tj"
+  ]
+ },
+ {
+  "code": "gh",
+  "name": "Ghana",
+  "von": "von Ghana",
+  "rang": 64,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/gh.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#006b3f",
+    "anteil": 0.3335
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.3047
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0285
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#006b3f",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.305
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.029
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "bo",
+   "vu",
+   "mu",
+   "cm",
+   "gw",
+   "mr",
+   "gd",
+   "by"
+  ]
+ },
+ {
+  "code": "sn",
+  "name": "Senegal",
+  "von": "vom Senegal",
+  "rang": 65,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/sn.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#0b7226",
+    "anteil": 0.3533
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bc0000",
+    "anteil": 0.3339
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.3128
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#0b7226",
+    "anteil": 0.353
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bc0000",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.313
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "ml",
+   "pt",
+   "bj",
+   "bo",
+   "gd",
+   "vn",
+   "gn",
+   "it"
+  ]
+ },
+ {
+  "code": "cm",
+  "name": "Kamerun",
+  "von": "von Kamerun",
+  "rang": 66,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/cm.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.3452
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a5e",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3215
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.345
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a5e",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.322
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "gd",
+   "gh",
+   "lt",
+   "mr",
+   "bo",
+   "bd",
+   "lk",
+   "gw"
+  ]
+ },
+ {
+  "code": "tn",
+  "name": "Tunesien",
+  "von": "von Tunesien",
+  "rang": 67,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/tn.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#e70013",
+    "anteil": 0.8946
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1054
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#e70013",
+    "anteil": 0.895
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.105
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "tr",
+   "hk",
+   "ch",
+   "cn",
+   "pe",
+   "to",
+   "vn",
+   "id"
+  ]
+ },
+ {
+  "code": "dz",
+  "name": "Algerien",
+  "von": "von Algerien",
+  "rang": 68,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/dz.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4769
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006233",
+    "anteil": 0.4557
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.0674
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.477
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006233",
+    "anteil": 0.456
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.067
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "mx",
+   "sa",
+   "it",
+   "ng",
+   "sr",
+   "jp",
+   "bg",
+   "tj"
+  ]
+ },
+ {
+  "code": "gl",
+  "name": "Grönland",
+  "von": "von Grönland",
+  "rang": 69,
+  "kategorie": "gebiet",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/gl.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d00c33",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d00c33",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pl",
+   "at",
+   "jp",
+   "dk",
+   "mt",
+   "gb-eng",
+   "bh",
+   "pe"
+  ]
+ },
+ {
+  "code": "ee",
+  "name": "Estland",
+  "von": "von Estland",
+  "rang": 70,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ee.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#1791ff",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#1791ff",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "kr",
+   "gb-sct",
+   "ni",
+   "gr",
+   "so",
+   "th",
+   "gt",
+   "sv"
+  ]
+ },
+ {
+  "code": "lv",
+  "name": "Lettland",
+  "von": "von Lettland",
+  "rang": 71,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/lv.svg",
+  "farben": [
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#981e32",
+    "anteil": 0.8
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#981e32",
+    "anteil": 0.8
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "at",
+   "dk",
+   "qa",
+   "ma",
+   "bh",
+   "gl",
+   "pl",
+   "mt"
+  ]
+ },
+ {
+  "code": "lt",
+  "name": "Litauen",
+  "von": "von Litauen",
+  "rang": 72,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/lt.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#006a44",
+    "anteil": 0.3365
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c1272d",
+    "anteil": 0.3312
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fdb913",
+    "anteil": 0.3312
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#006a44",
+    "anteil": 0.337
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c1272d",
+    "anteil": 0.332
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fdb913",
+    "anteil": 0.332
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "mr",
+   "gd",
+   "cm",
+   "mm",
+   "tm",
+   "mv",
+   "lk",
+   "gw"
+  ]
+ },
+ {
+  "code": "al",
+  "name": "Albanien",
+  "von": "von Albanien",
+  "rang": 73,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/al.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.8724
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.1276
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.872
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.128
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "kg",
+   "ch",
+   "tt",
+   "ao",
+   "tn",
+   "cn",
+   "pg",
+   "tr"
+  ]
+ },
+ {
+  "code": "ba",
+  "name": "Bosnien und Herzegowina",
+  "von": "von Bosnien und Herzegowina",
+  "rang": 74,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ba.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#000099",
+    "anteil": 0.5662
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.3739
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0598
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#000099",
+    "anteil": 0.566
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.374
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.06
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "co",
+   "uy",
+   "au",
+   "cv",
+   "ad",
+   "ec",
+   "ro",
+   "sb"
+  ]
+ },
+ {
+  "code": "me",
+  "name": "Montenegro",
+  "von": "von Montenegro",
+  "rang": 75,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/me.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c40308",
+    "anteil": 0.6969
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#d3ae3b",
+    "anteil": 0.2504
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#b96b29",
+    "anteil": 0.0393
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#1d5e91",
+    "anteil": 0.0088
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#6d8c3e",
+    "anteil": 0.0045
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c40308",
+    "anteil": 0.7
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#d3ae3b",
+    "anteil": 0.252
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#b96b29",
+    "anteil": 0.039
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#1d5e91",
+    "anteil": 0.009
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "vn",
+   "cn",
+   "to",
+   "tr",
+   "ma",
+   "tn",
+   "hk",
+   "tl"
+  ]
+ },
+ {
+  "code": "mk",
+  "name": "Nordmazedonien",
+  "von": "von Nordmazedonien",
+  "rang": 76,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/mk.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d20000",
+    "anteil": 0.6608
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe600",
+    "anteil": 0.3392
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d20000",
+    "anteil": 0.661
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe600",
+    "anteil": 0.339
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "vn",
+   "cn",
+   "kg",
+   "me",
+   "tr",
+   "tn",
+   "tl",
+   "es"
+  ]
+ },
+ {
+  "code": "md",
+  "name": "Moldau",
+  "von": "von der Republik Moldau",
+  "rang": 77,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/md.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.3466
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00319c",
+    "anteil": 0.3309
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde00",
+    "anteil": 0.2084
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#a77b3b",
+    "anteil": 0.0824
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.021
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#008f00",
+    "anteil": 0.0107
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.347
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00319c",
+    "anteil": 0.331
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde00",
+    "anteil": 0.208
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#a77b3b",
+    "anteil": 0.082
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.021
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#008f00",
+    "anteil": 0.011
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ro",
+   "ad",
+   "td",
+   "be",
+   "am",
+   "co",
+   "ec",
+   "bb"
+  ]
+ },
+ {
+  "code": "by",
+  "name": "Belarus",
+  "von": "von Belarus",
+  "rang": 78,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/by.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1720",
+    "anteil": 0.6484
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007c30",
+    "anteil": 0.276
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0711
+   },
+   {
+    "farbe": "Rosa",
+    "hex": "#e89397",
+    "anteil": 0.0044
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1720",
+    "anteil": 0.651
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007c30",
+    "anteil": 0.277
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.071
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "mg",
+   "om",
+   "hu",
+   "tj",
+   "bh",
+   "mv",
+   "sr",
+   "bo"
+  ]
+ },
+ {
+  "code": "cy",
+  "name": "Zypern",
+  "von": "von Zypern",
+  "rang": 79,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/cy.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.8852
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#d47600",
+    "anteil": 0.0989
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#435125",
+    "anteil": 0.0159
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.885
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#d47600",
+    "anteil": 0.099
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#435125",
+    "anteil": 0.016
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "jp",
+   "gb-eng",
+   "gb-nir",
+   "kr",
+   "ge",
+   "fo",
+   "sg",
+   "id"
+  ]
+ },
+ {
+  "code": "mt",
+  "name": "Malta",
+  "von": "von Malta",
+  "rang": 80,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/mt.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#cf142b",
+    "anteil": 0.51
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4757
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0083
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#7f7f7f",
+    "anteil": 0.006
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#cf142b",
+    "anteil": 0.513
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.479
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.008
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "bh",
+   "dk",
+   "gl",
+   "gb-eng",
+   "at",
+   "jp",
+   "pe",
+   "to"
+  ]
+ },
+ {
+  "code": "mc",
+  "name": "Monaco",
+  "von": "von Monaco",
+  "rang": 81,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/mc.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#f31830",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#f31830",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "id",
+   "sg",
+   "hk",
+   "pe",
+   "gb-eng",
+   "tr",
+   "mt",
+   "ca"
+  ]
+ },
+ {
+  "code": "li",
+  "name": "Liechtenstein",
+  "von": "von Liechtenstein",
+  "rang": 82,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/li.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002b7f",
+    "anteil": 0.4508
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd83d",
+    "anteil": 0.0291
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0201
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002b7f",
+    "anteil": 0.451
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd83d",
+    "anteil": 0.029
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.02
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ws",
+   "ht",
+   "ve",
+   "ph",
+   "la",
+   "cv",
+   "ag",
+   "cl"
+  ]
+ },
+ {
+  "code": "sm",
+  "name": "San Marino",
+  "von": "von San Marino",
+  "rang": 83,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/sm.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4613
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#19b6ef",
+    "anteil": 0.4386
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#4fd46b",
+    "anteil": 0.046
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffdd00",
+    "anteil": 0.0205
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#b97700",
+    "anteil": 0.0094
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#7d6c00",
+    "anteil": 0.0083
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0065
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#a9a9a9",
+    "anteil": 0.0047
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e40000",
+    "anteil": 0.0047
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.469
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#19b6ef",
+    "anteil": 0.446
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#4fd46b",
+    "anteil": 0.047
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffdd00",
+    "anteil": 0.021
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#b97700",
+    "anteil": 0.01
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#7d6c00",
+    "anteil": 0.008
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gt",
+   "ar",
+   "hn",
+   "tv",
+   "lc",
+   "cy",
+   "fm",
+   "fj"
+  ]
+ },
+ {
+  "code": "va",
+  "name": "Vatikanstadt",
+  "von": "von der Vatikanstadt",
+  "rang": 84,
+  "kategorie": "staat_ohne_un",
+  "kontinent": "Europa",
+  "flagge": "flaggen/va.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe000",
+    "anteil": 0.5165
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4561
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#cccccc",
+    "anteil": 0.0128
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0106
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#fa0204",
+    "anteil": 0.004
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe000",
+    "anteil": 0.519
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.458
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#cccccc",
+    "anteil": 0.013
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.011
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "cy",
+   "bn",
+   "bt",
+   "sm",
+   "uy",
+   "jp",
+   "kr",
+   "mm"
+  ]
+ },
+ {
+  "code": "ad",
+  "name": "Andorra",
+  "von": "von Andorra",
+  "rang": 85,
+  "kategorie": "staat",
+  "kontinent": "Europa",
+  "flagge": "flaggen/ad.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d0103a",
+    "anteil": 0.3341
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fedf00",
+    "anteil": 0.3308
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0018a8",
+    "anteil": 0.3197
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#703d29",
+    "anteil": 0.0107
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d0103a",
+    "anteil": 0.336
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fedf00",
+    "anteil": 0.332
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0018a8",
+    "anteil": 0.321
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#703d29",
+    "anteil": 0.011
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ro",
+   "md",
+   "td",
+   "co",
+   "ve",
+   "ec",
+   "ba",
+   "ht"
+  ]
+ },
+ {
+  "code": "kp",
+  "name": "Nordkorea",
+  "von": "von Nordkorea",
+  "rang": 86,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/kp.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c60000",
+    "anteil": 0.4603
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#3e5698",
+    "anteil": 0.3604
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1744
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c60000",
+    "anteil": 0.463
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#3e5698",
+    "anteil": 0.362
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.175
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "sz",
+   "cu",
+   "to",
+   "cz",
+   "gb",
+   "nl",
+   "is",
+   "cl"
+  ]
+ },
+ {
+  "code": "my",
+  "name": "Malaysia",
+  "von": "von Malaysia",
+  "rang": 87,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/my.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.3562
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3521
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000066",
+    "anteil": 0.2499
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.0343
+   },
+   {
+    "farbe": "Rosa",
+    "hex": "#e88f8f",
+    "anteil": 0.0063
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.359
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.355
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000066",
+    "anteil": 0.252
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.035
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "lr",
+   "np",
+   "fr",
+   "cl",
+   "cv",
+   "tw",
+   "fo",
+   "ru"
+  ]
+ },
+ {
+  "code": "sg",
+  "name": "Singapur",
+  "von": "von Singapur",
+  "rang": 88,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/sg.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.5325
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#df0000",
+    "anteil": 0.4675
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.532
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#df0000",
+    "anteil": 0.468
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "id",
+   "mc",
+   "gb-nir",
+   "ge",
+   "tn",
+   "tr",
+   "gb-eng",
+   "ca"
+  ]
+ },
+ {
+  "code": "np",
+  "name": "Nepal",
+  "von": "von Nepal",
+  "rang": 89,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/np.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce0000",
+    "anteil": 0.6402
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000063",
+    "anteil": 0.2091
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.145
+   },
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#8d001f",
+    "anteil": 0.0058
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce0000",
+    "anteil": 0.644
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000063",
+    "anteil": 0.21
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.146
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "lr",
+   "fo",
+   "gb-nir",
+   "my",
+   "cl",
+   "cu",
+   "gb-eng",
+   "kr"
+  ]
+ },
+ {
+  "code": "bd",
+  "name": "Bangladesch",
+  "von": "von Bangladesch",
+  "rang": 90,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/bd.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#006a4e",
+    "anteil": 0.7383
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#f42a41",
+    "anteil": 0.2617
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#006a4e",
+    "anteil": 0.738
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#f42a41",
+    "anteil": 0.262
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sa",
+   "tm",
+   "mr",
+   "sr",
+   "cm",
+   "by",
+   "mx",
+   "dz"
+  ]
+ },
+ {
+  "code": "lk",
+  "name": "Sri Lanka",
+  "von": "von Sri Lanka",
+  "rang": 91,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/lk.svg",
+  "farben": [
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#8d2029",
+    "anteil": 0.4203
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffb700",
+    "anteil": 0.305
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff5b00",
+    "anteil": 0.1287
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#005641",
+    "anteil": 0.1223
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0237
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#8d2029",
+    "anteil": 0.42
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffb700",
+    "anteil": 0.305
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff5b00",
+    "anteil": 0.129
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#005641",
+    "anteil": 0.122
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.024
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "lt",
+   "cm",
+   "es",
+   "gh",
+   "mr",
+   "td",
+   "gd",
+   "lv"
+  ]
+ },
+ {
+  "code": "af",
+  "name": "Afghanistan",
+  "von": "von Afghanistan",
+  "rang": 92,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/af.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3328
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.3328
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bf0000",
+    "anteil": 0.2872
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.034
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#bd6b00",
+    "anteil": 0.0116
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#bf0000",
+    "anteil": 0.288
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.034
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#bd6b00",
+    "anteil": 0.012
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "kw",
+   "dm",
+   "ly",
+   "kn",
+   "ke",
+   "gy",
+   "jo",
+   "gb-wls"
+  ]
+ },
+ {
+  "code": "iq",
+  "name": "Irak",
+  "von": "vom Irak",
+  "rang": 93,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/iq.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.306
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a3d",
+    "anteil": 0.0273
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.306
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a3d",
+    "anteil": 0.027
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "eg",
+   "ye",
+   "sy",
+   "sd",
+   "ae",
+   "at",
+   "eh",
+   "nl"
+  ]
+ },
+ {
+  "code": "sy",
+  "name": "Syrien",
+  "von": "von Syrien",
+  "rang": 94,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/sy.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a3d",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2848
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.0485
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a3d",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.285
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.049
+   }
+  ],
+  "sterne": 3,
+  "aehnliche_flaggen": [
+   "iq",
+   "ae",
+   "eg",
+   "ye",
+   "eh",
+   "sd",
+   "ir",
+   "ps"
+  ]
+ },
+ {
+  "code": "jo",
+  "name": "Jordanien",
+  "von": "von Jordanien",
+  "rang": 95,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/jo.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3709
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1291
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.371
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.129
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "ps",
+   "mw",
+   "ke",
+   "ae",
+   "eh",
+   "sd",
+   "gy",
+   "dm"
+  ]
+ },
+ {
+  "code": "lb",
+  "name": "Libanon",
+  "von": "vom Libanon",
+  "rang": 96,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/lb.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ee161f",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4081
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00a850",
+    "anteil": 0.0919
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ee161f",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.408
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00a850",
+    "anteil": 0.092
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tr",
+   "at",
+   "tn",
+   "ir",
+   "tj",
+   "hk",
+   "bi",
+   "id"
+  ]
+ },
+ {
+  "code": "ae",
+  "name": "Vereinigte Arabische Emirate",
+  "von": "von den Vereinigten Arabischen Emiraten",
+  "rang": 97,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/ae.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3438
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2188
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00732f",
+    "anteil": 0.2188
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2188
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.344
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.219
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00732f",
+    "anteil": 0.219
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.219
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sy",
+   "ye",
+   "sd",
+   "iq",
+   "jo",
+   "eh",
+   "ps",
+   "eg"
+  ]
+ },
+ {
+  "code": "qa",
+  "name": "Katar",
+  "von": "von Katar",
+  "rang": 98,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/qa.svg",
+  "farben": [
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#8d1b3d",
+    "anteil": 0.6762
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3238
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#8d1b3d",
+    "anteil": 0.676
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.324
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "lv",
+   "jp",
+   "kr",
+   "us",
+   "th",
+   "gb-eng",
+   "rs",
+   "nl"
+  ]
+ },
+ {
+  "code": "kw",
+  "name": "Kuwait",
+  "von": "von Kuwait",
+  "rang": 99,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/kw.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#f31830",
+    "anteil": 0.271
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00d941",
+    "anteil": 0.2708
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2497
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2085
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#f31830",
+    "anteil": 0.271
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00d941",
+    "anteil": 0.271
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.208
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gq",
+   "af",
+   "kn",
+   "tl",
+   "iq",
+   "ps",
+   "sd",
+   "lb"
+  ]
+ },
+ {
+  "code": "ve",
+  "name": "Venezuela",
+  "von": "von Venezuela",
+  "rang": 100,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/ve.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#cf142b",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00247d",
+    "anteil": 0.3219
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0115
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#cf142b",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00247d",
+    "anteil": 0.322
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.011
+   }
+  ],
+  "sterne": 8,
+  "aehnliche_flaggen": [
+   "co",
+   "li",
+   "ec",
+   "td",
+   "ro",
+   "ws",
+   "am",
+   "md"
+  ]
+ },
+ {
+  "code": "ec",
+  "name": "Ecuador",
+  "von": "von Ecuador",
+  "rang": 101,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/ec.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe800",
+    "anteil": 0.4301
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da0010",
+    "anteil": 0.2611
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00148e",
+    "anteil": 0.1812
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#984000",
+    "anteil": 0.0334
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#a7cfff",
+    "anteil": 0.028
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#afff7b",
+    "anteil": 0.0189
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0173
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#908f8a",
+    "anteil": 0.0111
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0102
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#772600",
+    "anteil": 0.0087
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe800",
+    "anteil": 0.43
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da0010",
+    "anteil": 0.261
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00148e",
+    "anteil": 0.181
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#984000",
+    "anteil": 0.033
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#a7cfff",
+    "anteil": 0.028
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#afff7b",
+    "anteil": 0.019
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.017
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#908f8a",
+    "anteil": 0.011
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.01
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#772600",
+    "anteil": 0.009
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "co",
+   "ve",
+   "ro",
+   "md",
+   "mk",
+   "ad",
+   "bt",
+   "ph"
+  ]
+ },
+ {
+  "code": "bo",
+  "name": "Bolivien",
+  "von": "von Bolivien",
+  "rang": 102,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/bo.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.3449
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007934",
+    "anteil": 0.3404
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe000",
+    "anteil": 0.3018
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#00a6de",
+    "anteil": 0.0043
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.349
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007934",
+    "anteil": 0.345
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe000",
+    "anteil": 0.306
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gh",
+   "by",
+   "gw",
+   "vu",
+   "tg",
+   "mu",
+   "tm",
+   "sn"
+  ]
+ },
+ {
+  "code": "py",
+  "name": "Paraguay",
+  "von": "von Paraguay",
+  "rang": 103,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/py.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0038a8",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3229
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0058
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009b3a",
+    "anteil": 0.0046
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0038a8",
+    "anteil": 0.337
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d52b1e",
+    "anteil": 0.337
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.326
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "nl",
+   "hr",
+   "is",
+   "kh",
+   "cu",
+   "sv",
+   "nz",
+   "lu"
+  ]
+ },
+ {
+  "code": "ge",
+  "name": "Georgien",
+  "von": "von Georgien",
+  "rang": 104,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/ge.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.6344
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3656
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.634
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.366
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gb-nir",
+   "gb-eng",
+   "sg",
+   "id",
+   "cy",
+   "mc",
+   "jp",
+   "fo"
+  ]
+ },
+ {
+  "code": "am",
+  "name": "Armenien",
+  "von": "von Armenien",
+  "rang": 105,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/am.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0033a0",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d90012",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f2a800",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0033a0",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d90012",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f2a800",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ro",
+   "md",
+   "ve",
+   "mu",
+   "td",
+   "la",
+   "li",
+   "bb"
+  ]
+ },
+ {
+  "code": "az",
+  "name": "Aserbaidschan",
+  "von": "von Aserbaidschan",
+  "rang": 106,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/az.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00b9e4",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#3f9c35",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ed2939",
+    "anteil": 0.3084
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.025
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00b9e4",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#3f9c35",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ed2939",
+    "anteil": 0.308
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.025
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "uz",
+   "om",
+   "by",
+   "gb-wls",
+   "hu",
+   "sr",
+   "ps",
+   "mg"
+  ]
+ },
+ {
+  "code": "kz",
+  "name": "Kasachstan",
+  "von": "von Kasachstan",
+  "rang": 107,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/kz.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00abc2",
+    "anteil": 0.8721
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffec2d",
+    "anteil": 0.1279
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00abc2",
+    "anteil": 0.872
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffec2d",
+    "anteil": 0.128
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pw",
+   "lc",
+   "hn",
+   "tv",
+   "bs",
+   "bw",
+   "ar",
+   "fj"
+  ]
+ },
+ {
+  "code": "uz",
+  "name": "Usbekistan",
+  "von": "von Usbekistan",
+  "rang": 108,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/uz.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3317
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#1eb53a",
+    "anteil": 0.3198
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#0099b5",
+    "anteil": 0.3069
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.0385
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#1eb53a",
+    "anteil": 0.321
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#0099b5",
+    "anteil": 0.308
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.039
+   }
+  ],
+  "sterne": 12,
+  "aehnliche_flaggen": [
+   "az",
+   "hu",
+   "ne",
+   "hn",
+   "in",
+   "gb-wls",
+   "ar",
+   "ps"
+  ]
+ },
+ {
+  "code": "mn",
+  "name": "Mongolei",
+  "von": "von der Mongolei",
+  "rang": 109,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/mn.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#da2032",
+    "anteil": 0.5863
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0066b3",
+    "anteil": 0.3328
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd900",
+    "anteil": 0.0793
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#da2032",
+    "anteil": 0.587
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0066b3",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd900",
+    "anteil": 0.079
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ws",
+   "ag",
+   "li",
+   "no",
+   "hk",
+   "td",
+   "ma",
+   "sz"
+  ]
+ },
+ {
+  "code": "tw",
+  "name": "Taiwan",
+  "von": "von Taiwan",
+  "rang": 110,
+  "kategorie": "staat_ohne_un",
+  "kontinent": "Asien",
+  "flagge": "flaggen/tw.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.7188
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000095",
+    "anteil": 0.2443
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.037
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.719
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000095",
+    "anteil": 0.244
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.037
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "ch",
+   "fr",
+   "al",
+   "pr",
+   "cl",
+   "lr",
+   "kg",
+   "my"
+  ]
+ },
+ {
+  "code": "xk",
+  "name": "Kosovo",
+  "von": "vom Kosovo",
+  "rang": 111,
+  "kategorie": "staat_ohne_un",
+  "kontinent": "Europa",
+  "flagge": "flaggen/xk.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#244aa5",
+    "anteil": 0.8852
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#d0a650",
+    "anteil": 0.0979
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0168
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#244aa5",
+    "anteil": 0.885
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#d0a650",
+    "anteil": 0.098
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.017
+   }
+  ],
+  "sterne": 6,
+  "aehnliche_flaggen": [
+   "nr",
+   "mh",
+   "bb",
+   "sv",
+   "nz",
+   "is",
+   "ni",
+   "se"
+  ]
+ },
+ {
+  "code": "ps",
+  "name": "Palästina",
+  "von": "von Palästina",
+  "rang": 112,
+  "kategorie": "staat_ohne_un",
+  "kontinent": "Asien",
+  "flagge": "flaggen/ps.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.2778
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009639",
+    "anteil": 0.2778
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ed2e38",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1944
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009639",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ed2e38",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.194
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "eh",
+   "jo",
+   "ke",
+   "mw",
+   "gb-wls",
+   "ss",
+   "ae",
+   "om"
+  ]
+ },
+ {
+  "code": "pr",
+  "name": "Puerto Rico",
+  "von": "von Puerto Rico",
+  "rang": 113,
+  "kategorie": "gebiet",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/pr.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ed0000",
+    "anteil": 0.4325
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0050f0",
+    "anteil": 0.3002
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2673
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ed0000",
+    "anteil": 0.432
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0050f0",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.267
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "fr",
+   "tw",
+   "pa",
+   "si",
+   "cl",
+   "hr",
+   "ru",
+   "cr"
+  ]
+ },
+ {
+  "code": "hk",
+  "name": "Hongkong",
+  "von": "von Hongkong",
+  "rang": 114,
+  "kategorie": "gebiet",
+  "kontinent": "Asien",
+  "flagge": "flaggen/hk.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ec1b2e",
+    "anteil": 0.9032
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0968
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ec1b2e",
+    "anteil": 0.903
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.097
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tr",
+   "tn",
+   "cn",
+   "pe",
+   "vn",
+   "ch",
+   "dk",
+   "to"
+  ]
+ },
+ {
+  "code": "fo",
+  "name": "Färöer",
+  "von": "von den Färöern",
+  "rang": 115,
+  "kategorie": "gebiet",
+  "kontinent": "Europa",
+  "flagge": "flaggen/fo.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.6491
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d72828",
+    "anteil": 0.1837
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#003897",
+    "anteil": 0.1635
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.652
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d72828",
+    "anteil": 0.184
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#003897",
+    "anteil": 0.164
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gb-eng",
+   "gb-nir",
+   "kr",
+   "fi",
+   "jp",
+   "np",
+   "cy",
+   "ru"
+  ]
+ },
+ {
+  "code": "gb-nir",
+  "name": "Nordirland",
+  "von": "von Nordirland",
+  "rang": 116,
+  "kategorie": "gebiet",
+  "kontinent": "Europa",
+  "flagge": "flaggen/gb-nir.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.7267
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.2494
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#161111",
+    "anteil": 0.015
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.0089
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.727
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.249
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#161111",
+    "anteil": 0.015
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.009
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gb-eng",
+   "ge",
+   "jp",
+   "cy",
+   "fo",
+   "sg",
+   "id",
+   "mc"
+  ]
+ },
+ {
+  "code": "et",
+  "name": "Äthiopien",
+  "von": "von Äthiopien",
+  "rang": 117,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/et.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#298c08",
+    "anteil": 0.3284
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ef2118",
+    "anteil": 0.3273
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc621",
+    "anteil": 0.2623
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#006bc6",
+    "anteil": 0.082
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#298c08",
+    "anteil": 0.328
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ef2118",
+    "anteil": 0.327
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc621",
+    "anteil": 0.262
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#006bc6",
+    "anteil": 0.082
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "bj",
+   "gq",
+   "st",
+   "ga",
+   "dm",
+   "zm",
+   "gy",
+   "tg"
+  ]
+ },
+ {
+  "code": "tz",
+  "name": "Tansania",
+  "von": "von Tansania",
+  "rang": 118,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/tz.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3121
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.282
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#0099ff",
+    "anteil": 0.2808
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.1251
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.312
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.282
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#0099ff",
+    "anteil": 0.281
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.125
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "kn",
+   "ga",
+   "jm",
+   "zm",
+   "vc",
+   "br",
+   "mz",
+   "dm"
+  ]
+ },
+ {
+  "code": "ug",
+  "name": "Uganda",
+  "von": "von Uganda",
+  "rang": 119,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ug.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe700",
+    "anteil": 0.3323
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3142
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de3908",
+    "anteil": 0.3079
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#fffdff",
+    "anteil": 0.0429
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe700",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.315
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de3908",
+    "anteil": 0.309
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#fffdff",
+    "anteil": 0.043
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "de",
+   "ag",
+   "be",
+   "bn",
+   "tl",
+   "ao",
+   "kn",
+   "zw"
+  ]
+ },
+ {
+  "code": "ci",
+  "name": "Elfenbeinküste",
+  "von": "von der Elfenbeinküste",
+  "rang": 120,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ci.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3344
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a44",
+    "anteil": 0.3328
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff8200",
+    "anteil": 0.3328
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a44",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff8200",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ie",
+   "ng",
+   "in",
+   "ne",
+   "it",
+   "cy",
+   "ir",
+   "hu"
+  ]
+ },
+ {
+  "code": "ml",
+  "name": "Mali",
+  "von": "von Mali",
+  "rang": 121,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ml.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.3344
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.3328
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3328
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sn",
+   "cg",
+   "pt",
+   "gn",
+   "bj",
+   "bf",
+   "kg",
+   "vn"
+  ]
+ },
+ {
+  "code": "cd",
+  "name": "Demokratische Republik Kongo",
+  "von": "von der Demokratischen Republik Kongo",
+  "rang": 122,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/cd.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#007fff",
+    "anteil": 0.6701
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1021",
+    "anteil": 0.2002
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f7d618",
+    "anteil": 0.1297
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#007fff",
+    "anteil": 0.67
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1021",
+    "anteil": 0.2
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f7d618",
+    "anteil": 0.13
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "mn",
+   "xk",
+   "sz",
+   "ua",
+   "so",
+   "am",
+   "is",
+   "ws"
+  ]
+ },
+ {
+  "code": "ao",
+  "name": "Angola",
+  "von": "von Angola",
+  "rang": 123,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ao.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.4769
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.4745
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffec00",
+    "anteil": 0.0486
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.477
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.474
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffec00",
+    "anteil": 0.049
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "pg",
+   "al",
+   "ye",
+   "tt",
+   "sd",
+   "be",
+   "ly",
+   "tl"
+  ]
+ },
+ {
+  "code": "mz",
+  "name": "Mosambik",
+  "von": "von Mosambik",
+  "rang": 124,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/mz.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffca00",
+    "anteil": 0.2768
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.2644
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.216
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.1948
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.048
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffca00",
+    "anteil": 0.277
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.264
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.216
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.195
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.048
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "gy",
+   "dm",
+   "de",
+   "jm",
+   "zw",
+   "kn",
+   "st",
+   "jo"
+  ]
+ },
+ {
+  "code": "zw",
+  "name": "Simbabwe",
+  "von": "von Simbabwe",
+  "rang": 125,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/zw.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#006400",
+    "anteil": 0.2579
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd200",
+    "anteil": 0.2303
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2062
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d40000",
+    "anteil": 0.1984
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.1061
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#006400",
+    "anteil": 0.258
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd200",
+    "anteil": 0.231
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.206
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d40000",
+    "anteil": 0.199
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.106
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "tj",
+   "dm",
+   "mz",
+   "tg",
+   "gy",
+   "sr",
+   "ke",
+   "kn"
+  ]
+ },
+ {
+  "code": "zm",
+  "name": "Sambia",
+  "von": "von Sambia",
+  "rang": 126,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/zm.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#198a00",
+    "anteil": 0.7094
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ef7d00",
+    "anteil": 0.1114
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0903
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2010",
+    "anteil": 0.0861
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#198a00",
+    "anteil": 0.711
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ef7d00",
+    "anteil": 0.112
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.091
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2010",
+    "anteil": 0.086
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "dm",
+   "bj",
+   "kn",
+   "et",
+   "gy",
+   "bf",
+   "pt",
+   "tm"
+  ]
+ },
+ {
+  "code": "mg",
+  "name": "Madagaskar",
+  "von": "von Madagaskar",
+  "rang": 127,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/mg.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#007e3a",
+    "anteil": 0.3335
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#fc3d32",
+    "anteil": 0.3335
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3331
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#007e3a",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#fc3d32",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "by",
+   "tj",
+   "hu",
+   "lb",
+   "om",
+   "mc",
+   "mt",
+   "sg"
+  ]
+ },
+ {
+  "code": "ly",
+  "name": "Libyen",
+  "von": "von Libyen",
+  "rang": 128,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ly.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.4828
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#239e46",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e70013",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0172
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.483
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#239e46",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e70013",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.017
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "vu",
+   "mw",
+   "ao",
+   "af",
+   "pg",
+   "ps",
+   "gh",
+   "ke"
+  ]
+ },
+ {
+  "code": "sd",
+  "name": "Sudan",
+  "von": "vom Sudan",
+  "rang": 129,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/sd.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2778
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.2778
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1944
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.194
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ye",
+   "iq",
+   "eg",
+   "ae",
+   "ao",
+   "jo",
+   "sy",
+   "pg"
+  ]
+ },
+ {
+  "code": "so",
+  "name": "Somalia",
+  "von": "von Somalia",
+  "rang": 130,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/so.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#40a6ff",
+    "anteil": 0.9422
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0578
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#40a6ff",
+    "anteil": 0.942
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.058
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "fm",
+   "gt",
+   "ar",
+   "ni",
+   "gb-sct",
+   "lc",
+   "pw",
+   "gr"
+  ]
+ },
+ {
+  "code": "rw",
+  "name": "Ruanda",
+  "von": "von Ruanda",
+  "rang": 131,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/rw.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00a1de",
+    "anteil": 0.4811
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fad201",
+    "anteil": 0.2673
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#20603d",
+    "anteil": 0.2516
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00a1de",
+    "anteil": 0.481
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fad201",
+    "anteil": 0.267
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#20603d",
+    "anteil": 0.252
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pw",
+   "lc",
+   "kz",
+   "fm",
+   "so",
+   "tv",
+   "gh",
+   "gt"
+  ]
+ },
+ {
+  "code": "bf",
+  "name": "Burkina Faso",
+  "von": "von Burkina Faso",
+  "rang": 132,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/bf.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#35a100",
+    "anteil": 0.4882
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de0000",
+    "anteil": 0.4875
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fff300",
+    "anteil": 0.0233
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#35a100",
+    "anteil": 0.489
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de0000",
+    "anteil": 0.488
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fff300",
+    "anteil": 0.023
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "tg",
+   "by",
+   "ml",
+   "gn",
+   "hu",
+   "ne",
+   "gy",
+   "pt"
+  ]
+ },
+ {
+  "code": "ne",
+  "name": "Niger",
+  "von": "vom Niger",
+  "rang": 133,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ne.svg",
+  "farben": [
+   {
+    "farbe": "Orange",
+    "hex": "#e05206",
+    "anteil": 0.3806
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#0db02b",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2861
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Orange",
+    "hex": "#e05206",
+    "anteil": 0.381
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#0db02b",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.286
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "hu",
+   "in",
+   "uz",
+   "lb",
+   "by",
+   "tj",
+   "bf",
+   "bi"
+  ]
+ },
+ {
+  "code": "td",
+  "name": "Tschad",
+  "von": "vom Tschad",
+  "rang": 134,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/td.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#002664",
+    "anteil": 0.3344
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c60c30",
+    "anteil": 0.3344
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fecb00",
+    "anteil": 0.3312
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#002664",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c60c30",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fecb00",
+    "anteil": 0.331
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ro",
+   "md",
+   "be",
+   "ve",
+   "ad",
+   "bb",
+   "li",
+   "mn"
+  ]
+ },
+ {
+  "code": "cf",
+  "name": "Zentralafrikanische Republik",
+  "von": "von der Zentralafrikanischen Republik",
+  "rang": 135,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/cf.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.2141
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.2043
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2035
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000ff",
+    "anteil": 0.1907
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.1875
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.214
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009a00",
+    "anteil": 0.204
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.203
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000ff",
+    "anteil": 0.191
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.187
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "sb",
+   "gm",
+   "lb",
+   "ne",
+   "bi",
+   "tj",
+   "km",
+   "hu"
+  ]
+ },
+ {
+  "code": "cg",
+  "name": "Republik Kongo",
+  "von": "von der Republik Kongo",
+  "rang": 136,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/cg.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.3691
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00ca00",
+    "anteil": 0.3155
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3147
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.369
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00ca00",
+    "anteil": 0.316
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.315
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ml",
+   "bj",
+   "kg",
+   "gn",
+   "pt",
+   "vn",
+   "cn",
+   "mk"
+  ]
+ },
+ {
+  "code": "ga",
+  "name": "Gabun",
+  "von": "von Gabun",
+  "rang": 137,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ga.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#006dbc",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#36a100",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe700",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#006dbc",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#36a100",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe700",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "vc",
+   "br",
+   "se",
+   "et",
+   "tz",
+   "st",
+   "gy",
+   "ua"
+  ]
+ },
+ {
+  "code": "gn",
+  "name": "Guinea",
+  "von": "von Guinea",
+  "rang": 138,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/gn.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ml",
+   "tg",
+   "gy",
+   "bf",
+   "kg",
+   "gw",
+   "cg",
+   "mz"
+  ]
+ },
+ {
+  "code": "bj",
+  "name": "Benin",
+  "von": "von Benin",
+  "rang": 139,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/bj.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#319400",
+    "anteil": 0.3984
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.3008
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd600",
+    "anteil": 0.3008
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#319400",
+    "anteil": 0.398
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.301
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd600",
+    "anteil": 0.301
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ml",
+   "pt",
+   "sn",
+   "cg",
+   "mm",
+   "et",
+   "zm",
+   "dm"
+  ]
+ },
+ {
+  "code": "tg",
+  "name": "Togo",
+  "von": "von Togo",
+  "rang": 140,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/tg.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#118600",
+    "anteil": 0.4225
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe300",
+    "anteil": 0.3047
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d80000",
+    "anteil": 0.252
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0208
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#118600",
+    "anteil": 0.422
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe300",
+    "anteil": 0.305
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d80000",
+    "anteil": 0.252
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.021
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "gy",
+   "bf",
+   "gn",
+   "st",
+   "bo",
+   "tj",
+   "dm",
+   "gw"
+  ]
+ },
+ {
+  "code": "lr",
+  "name": "Liberia",
+  "von": "von Liberia",
+  "rang": 141,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/lr.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.4509
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4071
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000066",
+    "anteil": 0.134
+   },
+   {
+    "farbe": "Rosa",
+    "hex": "#f2bfbf",
+    "anteil": 0.008
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.451
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.407
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#000066",
+    "anteil": 0.134
+   },
+   {
+    "farbe": "Rosa",
+    "hex": "#f2bfbf",
+    "anteil": 0.008
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "my",
+   "cl",
+   "np",
+   "fr",
+   "to",
+   "gb-nir",
+   "tr",
+   "sg"
+  ]
+ },
+ {
+  "code": "sl",
+  "name": "Sierra Leone",
+  "von": "von Sierra Leone",
+  "rang": 142,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/sl.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#00cd00",
+    "anteil": 0.3351
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000cd",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3319
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#00cd00",
+    "anteil": 0.335
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000cd",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.332
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ls",
+   "il",
+   "gq",
+   "dj",
+   "pa",
+   "sb",
+   "uz",
+   "uy"
+  ]
+ },
+ {
+  "code": "gm",
+  "name": "Gambia",
+  "von": "von Gambia",
+  "rang": 143,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/gm.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#000099",
+    "anteil": 0.2968
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1473
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#000099",
+    "anteil": 0.297
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009900",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.278
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.147
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tj",
+   "au",
+   "hu",
+   "ne",
+   "hr",
+   "tw",
+   "pr",
+   "pa"
+  ]
+ },
+ {
+  "code": "gw",
+  "name": "Guinea-Bissau",
+  "von": "von Guinea-Bissau",
+  "rang": 144,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/gw.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#009e49",
+    "anteil": 0.3281
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.3281
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.3205
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0233
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#009e49",
+    "anteil": 0.328
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.328
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.321
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.023
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "vu",
+   "st",
+   "gh",
+   "tm",
+   "bo",
+   "tg",
+   "mm",
+   "gy"
+  ]
+ },
+ {
+  "code": "cv",
+  "name": "Kap Verde",
+  "von": "von Kap Verde",
+  "rang": 145,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/cv.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#081873",
+    "anteil": 0.7278
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.163
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de3929",
+    "anteil": 0.0769
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffce08",
+    "anteil": 0.0282
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#081873",
+    "anteil": 0.731
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.164
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de3929",
+    "anteil": 0.077
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffce08",
+    "anteil": 0.028
+   }
+  ],
+  "sterne": 10,
+  "aehnliche_flaggen": [
+   "nr",
+   "nz",
+   "is",
+   "cu",
+   "kh",
+   "sv",
+   "ph",
+   "li"
+  ]
+ },
+ {
+  "code": "mr",
+  "name": "Mauretanien",
+  "von": "von Mauretanien",
+  "rang": 146,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/mr.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#006233",
+    "anteil": 0.64
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cd2a3e",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc400",
+    "anteil": 0.06
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#006233",
+    "anteil": 0.64
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cd2a3e",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc400",
+    "anteil": 0.06
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "lt",
+   "gd",
+   "mv",
+   "tm",
+   "gh",
+   "bd",
+   "sa",
+   "cm"
+  ]
+ },
+ {
+  "code": "er",
+  "name": "Eritrea",
+  "von": "von Eritrea",
+  "rang": 147,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/er.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#be0027",
+    "anteil": 0.4026
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#b4d7f4",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#239e46",
+    "anteil": 0.2494
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f3e295",
+    "anteil": 0.098
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#be0027",
+    "anteil": 0.403
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#b4d7f4",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#239e46",
+    "anteil": 0.249
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f3e295",
+    "anteil": 0.098
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sr",
+   "by",
+   "ir",
+   "om",
+   "dk",
+   "it",
+   "jp",
+   "gy"
+  ]
+ },
+ {
+  "code": "dj",
+  "name": "Dschibuti",
+  "von": "von Dschibuti",
+  "rang": 148,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/dj.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#6699ff",
+    "anteil": 0.3602
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00cc00",
+    "anteil": 0.3587
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#fffefe",
+    "anteil": 0.272
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.009
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#6699ff",
+    "anteil": 0.36
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00cc00",
+    "anteil": 0.359
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#fffefe",
+    "anteil": 0.272
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.009
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "uz",
+   "ni",
+   "so",
+   "gb-sct",
+   "gr",
+   "ar",
+   "sm",
+   "fm"
+  ]
+ },
+ {
+  "code": "ss",
+  "name": "Südsudan",
+  "von": "vom Südsudan",
+  "rang": 149,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ss.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0f47af",
+    "anteil": 0.3031
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2417
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#078930",
+    "anteil": 0.2417
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da121a",
+    "anteil": 0.1343
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0578
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcdd09",
+    "anteil": 0.0214
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0f47af",
+    "anteil": 0.303
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.242
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#078930",
+    "anteil": 0.242
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#da121a",
+    "anteil": 0.134
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.058
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcdd09",
+    "anteil": 0.021
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "ke",
+   "eh",
+   "ps",
+   "mw",
+   "jo",
+   "sc",
+   "ls",
+   "md"
+  ]
+ },
+ {
+  "code": "bi",
+  "name": "Burundi",
+  "von": "von Burundi",
+  "rang": 150,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/bi.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.4112
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cf0921",
+    "anteil": 0.3626
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#18b637",
+    "anteil": 0.2262
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.411
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cf0921",
+    "anteil": 0.363
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#18b637",
+    "anteil": 0.226
+   }
+  ],
+  "sterne": 3,
+  "aehnliche_flaggen": [
+   "lb",
+   "at",
+   "bh",
+   "gb-eng",
+   "hu",
+   "mt",
+   "it",
+   "ir"
+  ]
+ },
+ {
+  "code": "mw",
+  "name": "Malawi",
+  "von": "von Malawi",
+  "rang": 151,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/mw.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#f41408",
+    "anteil": 0.3942
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#21873b",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2724
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#f41408",
+    "anteil": 0.394
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#21873b",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.272
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ke",
+   "jo",
+   "ps",
+   "ly",
+   "eh",
+   "ss",
+   "by",
+   "vu"
+  ]
+ },
+ {
+  "code": "na",
+  "name": "Namibia",
+  "von": "von Namibia",
+  "rang": 152,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/na.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c70000",
+    "anteil": 0.3546
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#38a100",
+    "anteil": 0.2893
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#3662a2",
+    "anteil": 0.2496
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0818
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe700",
+    "anteil": 0.0246
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c70000",
+    "anteil": 0.355
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#38a100",
+    "anteil": 0.289
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#3662a2",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.082
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe700",
+    "anteil": 0.025
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sc",
+   "om",
+   "gy",
+   "gq",
+   "hu",
+   "by",
+   "kp",
+   "ne"
+  ]
+ },
+ {
+  "code": "bw",
+  "name": "Botswana",
+  "von": "von Botswana",
+  "rang": 153,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/bw.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00cbff",
+    "anteil": 0.6667
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.225
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1083
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#00cbff",
+    "anteil": 0.667
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.225
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.108
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "hn",
+   "lc",
+   "ar",
+   "bs",
+   "fj",
+   "pw",
+   "sm",
+   "fm"
+  ]
+ },
+ {
+  "code": "ls",
+  "name": "Lesotho",
+  "von": "von Lesotho",
+  "rang": 154,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/ls.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3628
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00209f",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009543",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0372
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.363
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#00209f",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009543",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.037
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "il",
+   "sv",
+   "ss",
+   "uz",
+   "ps",
+   "sy",
+   "uy",
+   "eh"
+  ]
+ },
+ {
+  "code": "sz",
+  "name": "Eswatini",
+  "von": "von Eswatini",
+  "rang": 155,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/sz.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#3e5eb9",
+    "anteil": 0.375
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#b10c0c",
+    "anteil": 0.3087
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd900",
+    "anteil": 0.1365
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.1034
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.072
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#b3b3b3",
+    "anteil": 0.0044
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#3e5eb9",
+    "anteil": 0.377
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#b10c0c",
+    "anteil": 0.31
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd900",
+    "anteil": 0.137
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.104
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.072
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "kp",
+   "kh",
+   "ag",
+   "cu",
+   "mn",
+   "li",
+   "cv",
+   "is"
+  ]
+ },
+ {
+  "code": "gq",
+  "name": "Äquatorialguinea",
+  "von": "von Äquatorialguinea",
+  "rang": 156,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/gq.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#3e9a00",
+    "anteil": 0.3059
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e32118",
+    "anteil": 0.302
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2438
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0073ce",
+    "anteil": 0.1406
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#3e9a00",
+    "anteil": 0.308
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e32118",
+    "anteil": 0.304
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.246
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0073ce",
+    "anteil": 0.142
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ir",
+   "kw",
+   "lb",
+   "et",
+   "cz",
+   "bz",
+   "bi",
+   "hu"
+  ]
+ },
+ {
+  "code": "st",
+  "name": "São Tomé und Príncipe",
+  "von": "von São Tomé und Príncipe",
+  "rang": 157,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/st.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#12ad2b",
+    "anteil": 0.5095
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffce00",
+    "anteil": 0.2685
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.1874
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0345
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#12ad2b",
+    "anteil": 0.51
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffce00",
+    "anteil": 0.269
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.187
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.035
+   }
+  ],
+  "sterne": 2,
+  "aehnliche_flaggen": [
+   "gy",
+   "gw",
+   "jm",
+   "tg",
+   "dm",
+   "vu",
+   "et",
+   "mz"
+  ]
+ },
+ {
+  "code": "km",
+  "name": "Komoren",
+  "von": "von den Komoren",
+  "rang": 158,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/km.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#239e46",
+    "anteil": 0.2433
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.2151
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#3b5aa3",
+    "anteil": 0.2149
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1818
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#be0027",
+    "anteil": 0.1448
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#239e46",
+    "anteil": 0.243
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.215
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#3b5aa3",
+    "anteil": 0.215
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.182
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#be0027",
+    "anteil": 0.145
+   }
+  ],
+  "sterne": 4,
+  "aehnliche_flaggen": [
+   "it",
+   "mm",
+   "sz",
+   "nl",
+   "sn",
+   "bz",
+   "mh",
+   "gb-wls"
+  ]
+ },
+ {
+  "code": "sc",
+  "name": "Seychellen",
+  "von": "von den Seychellen",
+  "rang": 159,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/sc.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d92223",
+    "anteil": 0.3334
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a39",
+    "anteil": 0.1668
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#003d88",
+    "anteil": 0.1665
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd955",
+    "anteil": 0.1665
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1661
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d92223",
+    "anteil": 0.334
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a39",
+    "anteil": 0.167
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#003d88",
+    "anteil": 0.167
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd955",
+    "anteil": 0.167
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.166
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "by",
+   "na",
+   "tj",
+   "ss",
+   "mg",
+   "do",
+   "bz",
+   "ki"
+  ]
+ },
+ {
+  "code": "mu",
+  "name": "Mauritius",
+  "von": "von Mauritius",
+  "rang": 160,
+  "kategorie": "staat",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/mu.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#00a04d",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#151f6d",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ee2737",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcd00",
+    "anteil": 0.25
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#00a04d",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#151f6d",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ee2737",
+    "anteil": 0.25
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcd00",
+    "anteil": 0.25
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gh",
+   "bo",
+   "vu",
+   "gw",
+   "st",
+   "am",
+   "sc",
+   "br"
+  ]
+ },
+ {
+  "code": "eh",
+  "name": "Westsahara",
+  "von": "von Westsahara",
+  "rang": 161,
+  "kategorie": "gebiet",
+  "kontinent": "Afrika",
+  "flagge": "flaggen/eh.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c4111b",
+    "anteil": 0.2678
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2492
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a3d",
+    "anteil": 0.2491
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2339
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c4111b",
+    "anteil": 0.268
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.249
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a3d",
+    "anteil": 0.249
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.234
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "ps",
+   "ke",
+   "jo",
+   "mw",
+   "ss",
+   "ae",
+   "iq",
+   "by"
+  ]
+ },
+ {
+  "code": "tm",
+  "name": "Turkmenistan",
+  "von": "von Turkmenistan",
+  "rang": 162,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/tm.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#00843d",
+    "anteil": 0.8183
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d22630",
+    "anteil": 0.1087
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc72c",
+    "anteil": 0.0422
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0189
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#383739",
+    "anteil": 0.0066
+   },
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#852e34",
+    "anteil": 0.0053
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#00843d",
+    "anteil": 0.828
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d22630",
+    "anteil": 0.11
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc72c",
+    "anteil": 0.043
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.019
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "mr",
+   "gw",
+   "mv",
+   "sa",
+   "bo",
+   "bd",
+   "by",
+   "gh"
+  ]
+ },
+ {
+  "code": "kg",
+  "name": "Kirgisistan",
+  "von": "von Kirgisistan",
+  "rang": 163,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/kg.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.9044
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.0956
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.904
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffff00",
+    "anteil": 0.096
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ch",
+   "al",
+   "cn",
+   "vn",
+   "tn",
+   "tr",
+   "mk",
+   "hk"
+  ]
+ },
+ {
+  "code": "tj",
+  "name": "Tadschikistan",
+  "von": "von Tadschikistan",
+  "rang": 164,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/tj.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.402
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006600",
+    "anteil": 0.2854
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.2854
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f8c300",
+    "anteil": 0.0242
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.403
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006600",
+    "anteil": 0.286
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cc0000",
+    "anteil": 0.286
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f8c300",
+    "anteil": 0.024
+   }
+  ],
+  "sterne": 7,
+  "aehnliche_flaggen": [
+   "hu",
+   "lb",
+   "by",
+   "mg",
+   "in",
+   "ne",
+   "iq",
+   "sg"
+  ]
+ },
+ {
+  "code": "la",
+  "name": "Laos",
+  "von": "von Laos",
+  "rang": 165,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/la.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.4958
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002868",
+    "anteil": 0.3927
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1093
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.497
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002868",
+    "anteil": 0.394
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.11
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "no",
+   "do",
+   "ws",
+   "bz",
+   "cz",
+   "sk",
+   "rs",
+   "ru"
+  ]
+ },
+ {
+  "code": "kh",
+  "name": "Kambodscha",
+  "von": "von Kambodscha",
+  "rang": 166,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/kh.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#032ea1",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e00025",
+    "anteil": 0.3808
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0828
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0223
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#7f7f7f",
+    "anteil": 0.0141
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#032ea1",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e00025",
+    "anteil": 0.381
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.083
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.022
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#7f7f7f",
+    "anteil": 0.014
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "cu",
+   "is",
+   "py",
+   "cv",
+   "sz",
+   "cr",
+   "ht",
+   "ph"
+  ]
+ },
+ {
+  "code": "mm",
+  "name": "Myanmar",
+  "von": "von Myanmar",
+  "rang": 167,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/mm.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#fecb00",
+    "anteil": 0.3271
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ea2839",
+    "anteil": 0.3133
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#34b233",
+    "anteil": 0.2515
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1081
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#fecb00",
+    "anteil": 0.327
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ea2839",
+    "anteil": 0.313
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#34b233",
+    "anteil": 0.252
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.108
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "bj",
+   "bt",
+   "gw",
+   "lt",
+   "bi",
+   "ve",
+   "et",
+   "km"
+  ]
+ },
+ {
+  "code": "bt",
+  "name": "Bhutan",
+  "von": "von Bhutan",
+  "rang": 168,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/bt.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd520",
+    "anteil": 0.4309
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff4e12",
+    "anteil": 0.4006
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1685
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd520",
+    "anteil": 0.431
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#ff4e12",
+    "anteil": 0.401
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.169
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "mm",
+   "va",
+   "mk",
+   "ec",
+   "bn",
+   "tl",
+   "cn",
+   "kg"
+  ]
+ },
+ {
+  "code": "mv",
+  "name": "Malediven",
+  "von": "von den Malediven",
+  "rang": 169,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/mv.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.6875
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007e3a",
+    "anteil": 0.297
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0155
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.688
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007e3a",
+    "anteil": 0.297
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.015
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "mr",
+   "ma",
+   "by",
+   "tm",
+   "hk",
+   "dk",
+   "gd",
+   "vn"
+  ]
+ },
+ {
+  "code": "tl",
+  "name": "Osttimor",
+  "von": "von Osttimor",
+  "rang": 170,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/tl.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#cb000f",
+    "anteil": 0.6245
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2266
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f8c00c",
+    "anteil": 0.1257
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0233
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#cb000f",
+    "anteil": 0.624
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.227
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f8c00c",
+    "anteil": 0.126
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.023
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "be",
+   "pg",
+   "tt",
+   "vn",
+   "eg",
+   "to",
+   "me",
+   "ag"
+  ]
+ },
+ {
+  "code": "bn",
+  "name": "Brunei",
+  "von": "von Brunei",
+  "rang": 171,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/bn.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#f7e017",
+    "anteil": 0.5426
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2064
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.1642
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cf1126",
+    "anteil": 0.0868
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#f7e017",
+    "anteil": 0.543
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.206
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.164
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#cf1126",
+    "anteil": 0.087
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ug",
+   "va",
+   "eg",
+   "be",
+   "zw",
+   "tl",
+   "bt",
+   "ag"
+  ]
+ },
+ {
+  "code": "om",
+  "name": "Oman",
+  "von": "von Oman",
+  "rang": 172,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/om.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ef2d29",
+    "anteil": 0.5048
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2482
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009025",
+    "anteil": 0.2462
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ef2d29",
+    "anteil": 0.505
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.248
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#009025",
+    "anteil": 0.246
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "by",
+   "gb-wls",
+   "az",
+   "mg",
+   "ca",
+   "pe",
+   "tr",
+   "hu"
+  ]
+ },
+ {
+  "code": "ye",
+  "name": "Jemen",
+  "von": "vom Jemen",
+  "rang": 173,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/ye.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#f10600",
+    "anteil": 0.3333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3333
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#f10600",
+    "anteil": 0.333
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.333
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "eg",
+   "iq",
+   "sd",
+   "ae",
+   "sy",
+   "tt",
+   "ao",
+   "pg"
+  ]
+ },
+ {
+  "code": "bh",
+  "name": "Bahrain",
+  "von": "von Bahrain",
+  "rang": 174,
+  "kategorie": "staat",
+  "kontinent": "Asien",
+  "flagge": "flaggen/bh.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.7636
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2364
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.764
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.236
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "mt",
+   "to",
+   "dk",
+   "hk",
+   "at",
+   "tr",
+   "gl",
+   "gb-eng"
+  ]
+ },
+ {
+  "code": "pa",
+  "name": "Panama",
+  "von": "von Panama",
+  "rang": 175,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/pa.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.463
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000ab",
+    "anteil": 0.2866
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#db0000",
+    "anteil": 0.2504
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.463
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000ab",
+    "anteil": 0.287
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#db0000",
+    "anteil": 0.25
+   }
+  ],
+  "sterne": 2,
+  "aehnliche_flaggen": [
+   "fr",
+   "cr",
+   "hr",
+   "pr",
+   "si",
+   "np",
+   "lr",
+   "au"
+  ]
+ },
+ {
+  "code": "cr",
+  "name": "Costa Rica",
+  "von": "von Costa Rica",
+  "rang": 176,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/cr.svg",
+  "farben": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3417
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000b4",
+    "anteil": 0.3292
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d90000",
+    "anteil": 0.3292
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.342
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0000b4",
+    "anteil": 0.329
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d90000",
+    "anteil": 0.329
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pa",
+   "kh",
+   "fr",
+   "tw",
+   "si",
+   "fo",
+   "np",
+   "au"
+  ]
+ },
+ {
+  "code": "gt",
+  "name": "Guatemala",
+  "von": "von Guatemala",
+  "rang": 177,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/gt.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#4997d0",
+    "anteil": 0.6672
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2979
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#406325",
+    "anteil": 0.0177
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f9f0aa",
+    "anteil": 0.0102
+   },
+   {
+    "farbe": "Grau",
+    "hex": "#b2b6ba",
+    "anteil": 0.0047
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#4997d0",
+    "anteil": 0.672
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#406325",
+    "anteil": 0.018
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f9f0aa",
+    "anteil": 0.01
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "fm",
+   "so",
+   "ar",
+   "sm",
+   "lc",
+   "hn",
+   "tv",
+   "gr"
+  ]
+ },
+ {
+  "code": "hn",
+  "name": "Honduras",
+  "von": "von Honduras",
+  "rang": 178,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/hn.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#18c3df",
+    "anteil": 0.6791
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3209
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#18c3df",
+    "anteil": 0.679
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.321
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "ar",
+   "bw",
+   "kz",
+   "lc",
+   "sm",
+   "uz",
+   "fj",
+   "gt"
+  ]
+ },
+ {
+  "code": "sv",
+  "name": "El Salvador",
+  "von": "von El Salvador",
+  "rang": 179,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/sv.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0f47af",
+    "anteil": 0.6746
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3102
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.0079
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#1f601a",
+    "anteil": 0.0073
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0f47af",
+    "anteil": 0.685
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.315
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ni",
+   "il",
+   "is",
+   "gr",
+   "mh",
+   "xk",
+   "nr",
+   "cv"
+  ]
+ },
+ {
+  "code": "ni",
+  "name": "Nicaragua",
+  "von": "von Nicaragua",
+  "rang": 180,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/ni.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0067c6",
+    "anteil": 0.6687
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.317
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#c8a400",
+    "anteil": 0.0061
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#73d9f3",
+    "anteil": 0.0048
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0067c6",
+    "anteil": 0.678
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.322
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "sv",
+   "gr",
+   "gb-sct",
+   "mh",
+   "so",
+   "fm",
+   "is",
+   "xk"
+  ]
+ },
+ {
+  "code": "do",
+  "name": "Dominikanische Republik",
+  "von": "von der Dominikanischen Republik",
+  "rang": 181,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/do.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#002d62",
+    "anteil": 0.3451
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.345
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.3038
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00863d",
+    "anteil": 0.0061
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#002d62",
+    "anteil": 0.347
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.347
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.306
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "la",
+   "nl",
+   "no",
+   "us",
+   "bz",
+   "cz",
+   "at",
+   "is"
+  ]
+ },
+ {
+  "code": "ht",
+  "name": "Haiti",
+  "von": "von Haiti",
+  "rang": 182,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/ht.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#00209f",
+    "anteil": 0.4763
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.4735
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0295
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#016a16",
+    "anteil": 0.0137
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#f1b517",
+    "anteil": 0.007
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#00209f",
+    "anteil": 0.48
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.477
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.03
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#016a16",
+    "anteil": 0.014
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "li",
+   "ph",
+   "cl",
+   "ws",
+   "ru",
+   "kh",
+   "cv",
+   "fr"
+  ]
+ },
+ {
+  "code": "bs",
+  "name": "Bahamas",
+  "von": "von den Bahamas",
+  "rang": 183,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/bs.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#08ced6",
+    "anteil": 0.5284
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3078
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe900",
+    "anteil": 0.1624
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#08ced6",
+    "anteil": 0.529
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.308
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe900",
+    "anteil": 0.163
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "bw",
+   "kz",
+   "lc",
+   "pw",
+   "hn",
+   "tv",
+   "bn",
+   "fj"
+  ]
+ },
+ {
+  "code": "tt",
+  "name": "Trinidad und Tobago",
+  "von": "von Trinidad und Tobago",
+  "rang": 184,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/tt.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#e00000",
+    "anteil": 0.723
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.1877
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0893
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#e00000",
+    "anteil": 0.723
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.188
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.089
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "al",
+   "tn",
+   "tr",
+   "to",
+   "ch",
+   "hk",
+   "ye",
+   "tl"
+  ]
+ },
+ {
+  "code": "bb",
+  "name": "Barbados",
+  "von": "von Barbados",
+  "rang": 185,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/bb.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#00267f",
+    "anteil": 0.6656
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc726",
+    "anteil": 0.2988
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0336
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#00267f",
+    "anteil": 0.667
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffc726",
+    "anteil": 0.299
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.034
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "nr",
+   "xk",
+   "cv",
+   "ro",
+   "se",
+   "td",
+   "ua",
+   "nz"
+  ]
+ },
+ {
+  "code": "gy",
+  "name": "Guyana",
+  "von": "von Guyana",
+  "rang": 186,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/gy.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#399408",
+    "anteil": 0.5164
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.182
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde08",
+    "anteil": 0.1782
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.077
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0464
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#399408",
+    "anteil": 0.516
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#de2110",
+    "anteil": 0.182
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde08",
+    "anteil": 0.178
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.077
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.046
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "st",
+   "tg",
+   "dm",
+   "mz",
+   "gn",
+   "jo",
+   "bf",
+   "ps"
+  ]
+ },
+ {
+  "code": "sr",
+  "name": "Suriname",
+  "von": "von Suriname",
+  "rang": 187,
+  "kategorie": "staat",
+  "kontinent": "Südamerika",
+  "flagge": "flaggen/sr.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#377e3f",
+    "anteil": 0.4
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#b40a2d",
+    "anteil": 0.3664
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ecc81d",
+    "anteil": 0.0336
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#377e3f",
+    "anteil": 0.4
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#b40a2d",
+    "anteil": 0.366
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ecc81d",
+    "anteil": 0.034
+   }
+  ],
+  "sterne": 1,
+  "aehnliche_flaggen": [
+   "by",
+   "dz",
+   "it",
+   "om",
+   "er",
+   "mx",
+   "zw",
+   "eh"
+  ]
+ },
+ {
+  "code": "bz",
+  "name": "Belize",
+  "von": "von Belize",
+  "rang": 188,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/bz.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#003f87",
+    "anteil": 0.4943
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2367
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.1417
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007f00",
+    "anteil": 0.0599
+   },
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#730000",
+    "anteil": 0.0156
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#552300",
+    "anteil": 0.0122
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0106
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#9dd7ff",
+    "anteil": 0.0104
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#b34b00",
+    "anteil": 0.01
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd83c",
+    "anteil": 0.0087
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#003f87",
+    "anteil": 0.494
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.237
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.142
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007f00",
+    "anteil": 0.06
+   },
+   {
+    "farbe": "Dunkelrot",
+    "hex": "#730000",
+    "anteil": 0.016
+   },
+   {
+    "farbe": "Braun",
+    "hex": "#552300",
+    "anteil": 0.012
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.011
+   },
+   {
+    "farbe": "Hellblau",
+    "hex": "#9dd7ff",
+    "anteil": 0.01
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#b34b00",
+    "anteil": 0.01
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd83c",
+    "anteil": 0.009
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "la",
+   "do",
+   "nl",
+   "is",
+   "cz",
+   "mh",
+   "nz",
+   "rs"
+  ]
+ },
+ {
+  "code": "lc",
+  "name": "St. Lucia",
+  "von": "von St. Lucia",
+  "rang": 189,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/lc.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#65cfff",
+    "anteil": 0.792
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffce00",
+    "anteil": 0.104
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0552
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0488
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#65cfff",
+    "anteil": 0.792
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffce00",
+    "anteil": 0.104
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.055
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.049
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "pw",
+   "bw",
+   "kz",
+   "gt",
+   "hn",
+   "fm",
+   "ar",
+   "so"
+  ]
+ },
+ {
+  "code": "gd",
+  "name": "Grenada",
+  "von": "von Grenada",
+  "rang": 190,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/gd.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.4337
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.3052
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a5e",
+    "anteil": 0.2599
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.434
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.306
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#007a5e",
+    "anteil": 0.26
+   }
+  ],
+  "sterne": 7,
+  "aehnliche_flaggen": [
+   "cm",
+   "mr",
+   "lt",
+   "gh",
+   "mv",
+   "gw",
+   "es",
+   "sn"
+  ]
+ },
+ {
+  "code": "vc",
+  "name": "St. Vincent und die Grenadinen",
+  "von": "von St. Vincent und die Grenadinen",
+  "rang": 191,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/vc.svg",
+  "farben": [
+   {
+    "farbe": "Gelb",
+    "hex": "#f4f100",
+    "anteil": 0.4682
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#199a00",
+    "anteil": 0.2975
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0058aa",
+    "anteil": 0.2344
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Gelb",
+    "hex": "#f4f100",
+    "anteil": 0.468
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#199a00",
+    "anteil": 0.297
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0058aa",
+    "anteil": 0.234
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ga",
+   "br",
+   "ua",
+   "se",
+   "bb",
+   "gn",
+   "gy",
+   "na"
+  ]
+ },
+ {
+  "code": "ag",
+  "name": "Antigua und Barbuda",
+  "von": "von Antigua und Barbuda",
+  "rang": 192,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/ag.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.4999
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.2375
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0072c6",
+    "anteil": 0.108
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.0807
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0739
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.5
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.237
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#0072c6",
+    "anteil": 0.108
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fcd116",
+    "anteil": 0.081
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.074
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "li",
+   "tl",
+   "mn",
+   "ug",
+   "be",
+   "tt",
+   "sz",
+   "pe"
+  ]
+ },
+ {
+  "code": "kn",
+  "name": "St. Kitts und Nevis",
+  "von": "von St. Kitts und Nevis",
+  "rang": 193,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/kn.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.3308
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c70000",
+    "anteil": 0.2889
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#35a100",
+    "anteil": 0.2755
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe900",
+    "anteil": 0.0811
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0237
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.331
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c70000",
+    "anteil": 0.289
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#35a100",
+    "anteil": 0.276
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffe900",
+    "anteil": 0.081
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.024
+   }
+  ],
+  "sterne": 2,
+  "aehnliche_flaggen": [
+   "kw",
+   "tl",
+   "zm",
+   "af",
+   "tz",
+   "mz",
+   "dm",
+   "gy"
+  ]
+ },
+ {
+  "code": "dm",
+  "name": "Dominica",
+  "von": "von Dominica",
+  "rang": 194,
+  "kategorie": "staat",
+  "kontinent": "Nordamerika",
+  "flagge": "flaggen/dm.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#108c00",
+    "anteil": 0.5602
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e72910",
+    "anteil": 0.1352
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd600",
+    "anteil": 0.1038
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.0974
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0953
+   },
+   {
+    "farbe": "Lila",
+    "hex": "#804bff",
+    "anteil": 0.0049
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#108c00",
+    "anteil": 0.565
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#e72910",
+    "anteil": 0.136
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd600",
+    "anteil": 0.105
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.098
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.096
+   }
+  ],
+  "sterne": 10,
+  "aehnliche_flaggen": [
+   "gy",
+   "zm",
+   "af",
+   "tg",
+   "bj",
+   "mz",
+   "zw",
+   "st"
+  ]
+ },
+ {
+  "code": "pg",
+  "name": "Papua-Neuguinea",
+  "von": "von Papua-Neuguinea",
+  "rang": 195,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/pg.svg",
+  "farben": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.4855
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.4359
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.064
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0146
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Schwarz",
+    "hex": "#000001",
+    "anteil": 0.485
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#ff0000",
+    "anteil": 0.436
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.064
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.015
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "ao",
+   "al",
+   "be",
+   "tl",
+   "de",
+   "ye",
+   "tt",
+   "ly"
+  ]
+ },
+ {
+  "code": "fj",
+  "name": "Fidschi",
+  "von": "von Fidschi",
+  "rang": 196,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/fj.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#68bfe5",
+    "anteil": 0.6509
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.1436
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.125
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#012169",
+    "anteil": 0.0526
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.0107
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd100",
+    "anteil": 0.0107
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#00a651",
+    "anteil": 0.0065
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#68bfe5",
+    "anteil": 0.655
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.145
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.126
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#012169",
+    "anteil": 0.053
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.011
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffd100",
+    "anteil": 0.011
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tv",
+   "ar",
+   "lu",
+   "hn",
+   "fm",
+   "lc",
+   "sm",
+   "bw"
+  ]
+ },
+ {
+  "code": "ws",
+  "name": "Samoa",
+  "von": "von Samoa",
+  "rang": 197,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/ws.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.75
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002b7f",
+    "anteil": 0.2339
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0161
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#ce1126",
+    "anteil": 0.75
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#002b7f",
+    "anteil": 0.234
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.016
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "li",
+   "ht",
+   "ma",
+   "la",
+   "mn",
+   "cn",
+   "no",
+   "to"
+  ]
+ },
+ {
+  "code": "to",
+  "name": "Tonga",
+  "von": "von Tonga",
+  "rang": 198,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/to.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#c10000",
+    "anteil": 0.8683
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1317
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#c10000",
+    "anteil": 0.868
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.132
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "tr",
+   "bh",
+   "tn",
+   "hk",
+   "vn",
+   "cn",
+   "ca",
+   "pe"
+  ]
+ },
+ {
+  "code": "sb",
+  "name": "Salomonen",
+  "von": "von den Salomonen",
+  "rang": 199,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/sb.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#0000d6",
+    "anteil": 0.572
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006000",
+    "anteil": 0.2819
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.1038
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0423
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#0000d6",
+    "anteil": 0.572
+   },
+   {
+    "farbe": "Grün",
+    "hex": "#006000",
+    "anteil": 0.282
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffcc00",
+    "anteil": 0.104
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.042
+   }
+  ],
+  "sterne": 5,
+  "aehnliche_flaggen": [
+   "ba",
+   "cf",
+   "ls",
+   "gm",
+   "sl",
+   "si",
+   "pa",
+   "br"
+  ]
+ },
+ {
+  "code": "vu",
+  "name": "Vanuatu",
+  "von": "von Vanuatu",
+  "rang": 200,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/vu.svg",
+  "farben": [
+   {
+    "farbe": "Grün",
+    "hex": "#009543",
+    "anteil": 0.3126
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.3126
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.2567
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fdce12",
+    "anteil": 0.115
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Grün",
+    "hex": "#009543",
+    "anteil": 0.314
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#d21034",
+    "anteil": 0.314
+   },
+   {
+    "farbe": "Schwarz",
+    "hex": "#000000",
+    "anteil": 0.257
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fdce12",
+    "anteil": 0.115
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "gh",
+   "ly",
+   "gw",
+   "bo",
+   "st",
+   "mu",
+   "by",
+   "mw"
+  ]
+ },
+ {
+  "code": "ki",
+  "name": "Kiribati",
+  "von": "von Kiribati",
+  "rang": 201,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/ki.svg",
+  "farben": [
+   {
+    "farbe": "Rot",
+    "hex": "#e73e2d",
+    "anteil": 0.475
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#005989",
+    "anteil": 0.2263
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.2155
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fec74a",
+    "anteil": 0.0832
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Rot",
+    "hex": "#e73e2d",
+    "anteil": 0.475
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#005989",
+    "anteil": 0.226
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.215
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fec74a",
+    "anteil": 0.083
+   }
+  ],
+  "sterne": 0,
+  "aehnliche_flaggen": [
+   "mc",
+   "id",
+   "lu",
+   "sg",
+   "rs",
+   "nl",
+   "pe",
+   "hk"
+  ]
+ },
+ {
+  "code": "tv",
+  "name": "Tuvalu",
+  "von": "von Tuvalu",
+  "rang": 202,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/tv.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#009fca",
+    "anteil": 0.7052
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.1066
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.091
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#012169",
+    "anteil": 0.0526
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fff40d",
+    "anteil": 0.0447
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#009fca",
+    "anteil": 0.705
+   },
+   {
+    "farbe": "Rot",
+    "hex": "#c8102e",
+    "anteil": 0.107
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.091
+   },
+   {
+    "farbe": "Blau",
+    "hex": "#012169",
+    "anteil": 0.053
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#fff40d",
+    "anteil": 0.045
+   }
+  ],
+  "sterne": 9,
+  "aehnliche_flaggen": [
+   "fj",
+   "pw",
+   "sm",
+   "lu",
+   "kz",
+   "fm",
+   "gt",
+   "lc"
+  ]
+ },
+ {
+  "code": "nr",
+  "name": "Nauru",
+  "von": "von Nauru",
+  "rang": 203,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/nr.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#002170",
+    "anteil": 0.8808
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffb20d",
+    "anteil": 0.0854
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.0338
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#002170",
+    "anteil": 0.881
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffb20d",
+    "anteil": 0.085
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.034
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "cv",
+   "nz",
+   "bb",
+   "xk",
+   "sv",
+   "is",
+   "se",
+   "mh"
+  ]
+ },
+ {
+  "code": "pw",
+  "name": "Palau",
+  "von": "von Palau",
+  "rang": 204,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/pw.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#4aadd6",
+    "anteil": 0.8129
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde00",
+    "anteil": 0.1871
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#4aadd6",
+    "anteil": 0.813
+   },
+   {
+    "farbe": "Gelb",
+    "hex": "#ffde00",
+    "anteil": 0.187
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "kz",
+   "lc",
+   "tv",
+   "fm",
+   "rw",
+   "ar",
+   "so",
+   "gt"
+  ]
+ },
+ {
+  "code": "mh",
+  "name": "Marshallinseln",
+  "von": "von den Marshallinseln",
+  "rang": 205,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/mh.svg",
+  "farben": [
+   {
+    "farbe": "Blau",
+    "hex": "#3b5aa3",
+    "anteil": 0.7013
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.1981
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#e2ae57",
+    "anteil": 0.1006
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Blau",
+    "hex": "#3b5aa3",
+    "anteil": 0.701
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.198
+   },
+   {
+    "farbe": "Orange",
+    "hex": "#e2ae57",
+    "anteil": 0.101
+   }
+  ],
+  "sterne": null,
+  "aehnliche_flaggen": [
+   "ni",
+   "gr",
+   "gb-sct",
+   "xk",
+   "sv",
+   "fm",
+   "nr",
+   "se"
+  ]
+ },
+ {
+  "code": "fm",
+  "name": "Mikronesien",
+  "von": "von Mikronesien",
+  "rang": 206,
+  "kategorie": "staat",
+  "kontinent": "Ozeanien",
+  "flagge": "flaggen/fm.svg",
+  "farben": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#6797d6",
+    "anteil": 0.963
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.037
+   }
+  ],
+  "farbkreis": [
+   {
+    "farbe": "Hellblau",
+    "hex": "#6797d6",
+    "anteil": 0.963
+   },
+   {
+    "farbe": "Weiß",
+    "hex": "#ffffff",
+    "anteil": 0.037
+   }
+  ],
+  "sterne": 4,
+  "aehnliche_flaggen": [
+   "so",
+   "gt",
+   "ar",
+   "pw",
+   "mh",
+   "ni",
+   "lc",
+   "gr"
+  ]
+ }
+]
