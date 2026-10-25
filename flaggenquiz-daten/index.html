@@ -1,0 +1,282 @@
+<meta charset="utf-8">
+<title>Flaggenjagd</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;800&family=Nunito:wght@500;700;800&display=swap">
+<style>
+/* Layout: eine schmale Spielkarte mittig auf "Himmel"; bewusst nur ein (helles) Farbschema */
+:root {
+  --himmel: #cfe6f7;
+  --himmel-tief: #a9d0ee;
+  --karte: #ffffff;
+  --tinte: #14304a;
+  --tinte-leise: #5b7186;
+  --knopf: #eef5fb;
+  --knopf-rand: #c5d9ea;
+  --gut: #1f9d55;
+  --gut-hell: #dcf5e6;
+  --schlecht: #d63a2f;
+  --schlecht-hell: #fde3e0;
+  --mast: #f2b705;
+  --mast-schatten: #c99500;
+  --display: "Baloo 2", "Trebuchet MS", system-ui, sans-serif;
+  --text: "Nunito", "Segoe UI", system-ui, sans-serif;
+  color-scheme: light;
+}
+html, body { height: 100%; }
+[hidden] { display: none !important; }
+body {
+  background: linear-gradient(180deg, var(--himmel) 0%, var(--himmel-tief) 100%) fixed;
+  background-color: var(--himmel);
+  color: var(--tinte);
+  font-family: var(--text);
+  font-size: 17px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 40px;
+}
+.buehne { max-width: 560px; margin: 0 auto; display: flex; flex-direction: column; gap: 14px; }
+.kopf { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.logo { font-family: var(--display); font-weight: 800; font-size: 1.7rem; letter-spacing: -0.01em; display: flex; align-items: center; gap: 8px; }
+.logo svg { width: 30px; height: 30px; }
+.stand { display: flex; align-items: center; gap: 14px; font-weight: 800; }
+.runde { font-family: var(--display); font-size: 1.15rem; font-variant-numeric: tabular-nums; }
+.leben { display: flex; gap: 4px; }
+.leben svg { width: 24px; height: 24px; transition: transform .3s; }
+.leben svg.weg { opacity: .22; transform: scale(.8); }
+.karte { background: var(--karte); border-radius: 22px; padding: 22px; box-shadow: 0 10px 30px rgba(20,48,74,.12); display: flex; flex-direction: column; gap: 16px; }
+.leiste { height: 8px; background: var(--knopf); border-radius: 99px; overflow: hidden; }
+.leiste i { display: block; height: 100%; background: var(--mast); width: 0; transition: width .4s; border-radius: 99px; }
+.typ { font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; color: var(--tinte-leise); }
+.bildfeld { display: flex; justify-content: center; }
+.flagge { width: min(100%, 320px); aspect-ratio: 4 / 3; max-width: 100%; border-radius: 8px; box-shadow: 0 0 0 1px rgba(20,48,74,.15), 0 6px 16px rgba(20,48,74,.12); object-fit: cover; background: var(--karte); }
+.t-spiegeln { transform: scaleX(-1); }
+.t-kopf { transform: scaleY(-1); }
+.t-drehen { transform: rotate(180deg); }
+.kreis { width: min(70%, 220px); aspect-ratio: 1; max-width: 100%; }
+h1.frage { font-family: var(--display); font-weight: 800; font-size: 1.55rem; line-height: 1.15; margin: 0; text-wrap: balance; text-align: center; }
+.hinweis { text-align: center; color: var(--tinte-leise); margin: -8px 0 0; font-weight: 700; }
+.antworten { display: grid; gap: 10px; grid-template-columns: 1fr; }
+.antworten.bilder { grid-template-columns: 1fr 1fr; }
+.antwort { font: inherit; font-weight: 800; font-size: 1.08rem; color: var(--tinte); background: var(--knopf); border: 2px solid var(--knopf-rand); border-radius: 14px; padding: 14px 16px; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 10px; text-align: center; transition: transform .1s, background .2s, border-color .2s; min-width: 0; }
+.antwort:hover:not(:disabled) { transform: translateY(-2px); border-color: var(--tinte-leise); }
+.antwort:focus-visible { outline: 3px solid var(--mast); outline-offset: 2px; }
+.antwort:disabled { cursor: default; }
+.antwort .flagge { width: 100%; box-shadow: 0 0 0 1px rgba(20,48,74,.15); }
+.bilder .antwort { flex-direction: column; padding: 10px; font-size: .92rem; }
+.tupfer { width: 26px; height: 26px; border-radius: 50%; box-shadow: inset 0 0 0 2px rgba(20,48,74,.25); flex: none; }
+.antwort.richtig { background: var(--gut-hell); border-color: var(--gut); }
+.antwort.falsch { background: var(--schlecht-hell); border-color: var(--schlecht); }
+.antwort.blass { opacity: .45; }
+.ergebnis { border-radius: 14px; padding: 14px 16px; font-weight: 700; line-height: 1.4; display: flex; flex-direction: column; gap: 10px; }
+.ergebnis.gut { background: var(--gut-hell); }
+.ergebnis.schlecht { background: var(--schlecht-hell); }
+.ergebnis b { font-family: var(--display); font-size: 1.3rem; }
+.haupt { font: inherit; font-family: var(--display); font-weight: 800; font-size: 1.25rem; color: var(--tinte); background: var(--mast); border: none; border-radius: 14px; padding: 12px 18px; cursor: pointer; box-shadow: 0 4px 0 var(--mast-schatten); }
+.haupt:active { transform: translateY(2px); box-shadow: 0 2px 0 var(--mast-schatten); }
+.haupt:focus-visible, .zweit:focus-visible { outline: 3px solid var(--tinte); outline-offset: 2px; }
+.zweit { font: inherit; font-weight: 800; color: var(--tinte); background: transparent; border: 2px solid var(--knopf-rand); border-radius: 14px; padding: 10px 16px; cursor: pointer; }
+.start { text-align: center; align-items: center; }
+.start p { margin: 0; max-width: 40ch; line-height: 1.5; }
+.parade { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.parade img { width: 54px; aspect-ratio: 4/3; border-radius: 4px; box-shadow: 0 0 0 1px rgba(20,48,74,.15); animation: wehen 2.4s ease-in-out infinite; }
+.parade img:nth-child(2n) { animation-delay: .3s; } .parade img:nth-child(3n) { animation-delay: .6s; }
+@keyframes wehen { 50% { transform: translateY(-4px) rotate(-2deg); } }
+@media (prefers-reduced-motion: reduce) { .parade img { animation: none; } * { transition: none !important; } }
+.knopfreihe { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+.filter { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; font-weight: 700; font-size: .95rem; }
+.filter select, .filter input { font: inherit; }
+.filter label { display: flex; gap: 6px; align-items: center; }
+.klein { font-size: .85rem; color: var(--tinte-leise); text-align: center; margin: 0; }
+.punkte { font-family: var(--display); font-size: 3rem; font-weight: 800; line-height: 1; }
+</style>
+
+<div class="buehne">
+  <div class="kopf">
+    <div class="logo"><svg viewBox="0 0 30 30" aria-hidden="true"><rect x="5" y="3" width="3" height="25" rx="1.5" fill="#14304a"/><path d="M8 4h17l-4 5 4 5H8z" fill="#d63a2f"/></svg>Flaggenjagd</div>
+    <div class="stand" id="stand" hidden>
+      <span class="runde" id="runde">Runde 1</span>
+      <span class="leben" id="leben" aria-label="Leben"></span>
+    </div>
+  </div>
+  <div class="karte" id="karte"><p class="klein">Lade Fragen …</p></div>
+  <p class="klein">Flaggen-Grafiken: flag-icons (MIT-Lizenz). Vorschau der Fragen-Daten für das eigene Spiel.</p>
+</div>
+
+<script>
+const TYPNAME = {
+  land_erkennen: "Welches Land?", flagge_waehlen: "Finde die Flagge", farben_zaehlen: "Farben zählen",
+  farbe_fehlt: "Welche Farbe fehlt?", sterne_zaehlen: "Sterne zählen", richtig_herum: "Richtig herum?",
+  fehler_finden: "Fehler finden", gespiegelt: "Spiegel-Detektiv", farbanteile: "Farbkreis"
+};
+const LOB = ["Super!", "Richtig!", "Klasse!", "Stark!", "Genau!", "Toll gemacht!"];
+let FRAGEN = [], NACH_ID = {}, ABLAUF = [];
+let zustand = { modus: "start" };
+const $ = s => document.querySelector(s);
+const karte = $("#karte");
+
+const herz = an => `<svg viewBox="0 0 24 24" class="${an ? "" : "weg"}"><path d="M12 21s-7.5-4.6-9.6-9.2C.9 8.4 3 4.5 6.7 4.5c2.1 0 3.6 1.2 5.3 3.1 1.7-1.9 3.2-3.1 5.3-3.1 3.7 0 5.8 3.9 4.3 7.3C19.5 16.4 12 21 12 21z" fill="#d63a2f"/></svg>`;
+
+/* Online-Vorschau: veränderte Flaggen kommen gebündelt aus vorschau-varianten/ (falls vorhanden) */
+let VAR_INDEX = null;
+const TEILE = {};
+async function quelle(datei) {
+  const t = VAR_INDEX && VAR_INDEX[datei];
+  if (!t) return datei;
+  TEILE[t] = TEILE[t] || fetch(`vorschau-varianten/teil${t}.json`).then(r => r.json());
+  try { return (await TEILE[t])[datei] || datei; } catch { return datei; }
+}
+function ladeBilder() {
+  document.querySelectorAll("img[data-datei]").forEach(async img => {
+    const d = img.dataset.datei;
+    img.removeAttribute("data-datei");
+    img.src = await quelle(d);
+  });
+}
+function bildHTML(b) {
+  if (b.datei.startsWith("varianten/")) return `<img class="flagge t-${b.transform}" data-datei="${b.datei}" alt="Flagge">`;
+  return `<img class="flagge t-${b.transform}" src="${b.datei}" alt="Flagge">`;
+}
+
+function kreisHTML(teile) {
+  const r = 100, c = 105;
+  if (teile.length === 1) return `<svg class="kreis" viewBox="0 0 210 210"><circle cx="${c}" cy="${c}" r="${r}" fill="${teile[0].hex}" stroke="#14304a" stroke-width="2"/></svg>`;
+  let a = -Math.PI / 2, s = "";
+  for (const t of teile) {
+    const b = a + t.anteil * 2 * Math.PI;
+    const gross = t.anteil > 0.5 ? 1 : 0;
+    s += `<path d="M${c},${c} L${c + r * Math.cos(a)},${c + r * Math.sin(a)} A${r},${r} 0 ${gross} 1 ${c + r * Math.cos(b)},${c + r * Math.sin(b)} Z" fill="${t.hex}" stroke="#14304a" stroke-width="2" stroke-linejoin="round"/>`;
+    a = b;
+  }
+  return `<svg class="kreis" viewBox="0 0 210 210" role="img" aria-label="Farbkreis">${s}</svg>`;
+}
+
+function zeigeFrage(q, kopfzeile) {
+  const hatBildAntworten = q.antworten.some(a => a.bild);
+  let oben = "";
+  if (q.farbkreis) oben = `<div class="bildfeld">${kreisHTML(q.farbkreis)}</div>`;
+  else if (q.bild) oben = `<div class="bildfeld">${bildHTML(q.bild)}</div>`;
+  const ant = q.antworten.map((a, i) => {
+    let inhalt = "";
+    if (a.bild) inhalt += bildHTML(a.bild);
+    if (a.farbe_hex) inhalt += `<span class="tupfer" style="background:${a.farbe_hex}"></span>`;
+    if (a.text) inhalt += `<span>${a.text}</span>`;
+    return `<button class="antwort" id="a${i}" data-i="${i}">${inhalt}</button>`;
+  }).join("");
+  karte.innerHTML = `${kopfzeile}
+    <div class="typ">${TYPNAME[q.typ]} · Stufe ${q.stufe}</div>
+    ${oben}
+    <h1 class="frage">${q.frage}</h1>
+    ${q.hinweis ? `<p class="hinweis">${q.hinweis}</p>` : ""}
+    <div class="antworten ${hatBildAntworten ? "bilder" : ""}">${ant}</div>
+    <div id="rueck"></div>`;
+  ladeBilder();
+}
+
+function markiere(q, gewaehlt) {
+  document.querySelectorAll(".antwort").forEach((b, i) => {
+    b.disabled = true;
+    if (i === q.richtig) b.classList.add("richtig");
+    else if (i === gewaehlt) b.classList.add("falsch");
+    else b.classList.add("blass");
+  });
+}
+
+/* ---------- Spiel ---------- */
+function startSpiel() {
+  zustand = { modus: "spiel", runde: 0, leben: 3, punkte: 0 };
+  karte.classList.remove("start");
+  $("#stand").hidden = false;
+  naechsteRunde();
+}
+function kopf() {
+  $("#runde").textContent = `Runde ${zustand.runde + 1}`;
+  $("#leben").innerHTML = [0, 1, 2].map(i => herz(i < zustand.leben)).join("");
+}
+function naechsteRunde() {
+  if (zustand.runde >= ABLAUF.length) return ende(true);
+  const q = NACH_ID[ABLAUF[zustand.runde].frage_id];
+  kopf();
+  const pct = (zustand.runde / ABLAUF.length) * 100;
+  zeigeFrage(q, `<div class="leiste"><i style="width:${pct}%"></i></div>`);
+  document.querySelectorAll(".antwort").forEach(b => b.onclick = () => antworte(q, +b.dataset.i));
+}
+function antworte(q, i) {
+  markiere(q, i);
+  const ok = i === q.richtig;
+  if (ok) zustand.punkte++; else zustand.leben--;
+  kopf();
+  const vorbei = zustand.leben <= 0;
+  $("#rueck").innerHTML = `<div class="ergebnis ${ok ? "gut" : "schlecht"}">
+      <b>${ok ? LOB[zustand.runde % LOB.length] : "Leider falsch."}</b>
+      <span>${q.aufloesung}</span>
+      <button class="haupt" id="weiter">${vorbei ? "Ergebnis ansehen" : "Weiter"}</button></div>`;
+  $("#weiter").focus();
+  $("#weiter").onclick = () => { zustand.runde++; vorbei ? ende(false) : naechsteRunde(); };
+}
+function ende(alles) {
+  $("#stand").hidden = true;
+  karte.classList.add("start");
+  karte.innerHTML = `<div class="punkte">${zustand.punkte}</div>
+    <h1 class="frage">${alles ? "Du hast alle Runden geschafft!" : `Du bist bis Runde ${zustand.runde} gekommen.`}</h1>
+    <p>${zustand.punkte} richtige Antworten. Insgesamt gibt es ${ABLAUF.length} Runden.</p>
+    <div class="knopfreihe"><button class="haupt" id="nochmal">Nochmal spielen</button><button class="zweit" id="zurueck">Zur Startseite</button></div>`;
+  $("#nochmal").onclick = startSpiel;
+  $("#zurueck").onclick = startseite;
+}
+
+/* ---------- Fragen ansehen (für Eltern) ---------- */
+function startBrowser() {
+  $("#stand").hidden = true;
+  karte.classList.remove("start");
+  zustand = { modus: "browser", typ: "alle", ab: 1, pos: 0 };
+  zeigeBrowser();
+}
+function browserListe() {
+  return FRAGEN.filter(q => (zustand.typ === "alle" || q.typ === zustand.typ) && q.stufe >= zustand.ab);
+}
+function zeigeBrowser() {
+  const liste = browserListe();
+  zustand.pos = Math.max(0, Math.min(zustand.pos, liste.length - 1));
+  const q = liste[zustand.pos];
+  const opts = ["alle", ...Object.keys(TYPNAME)].map(t => `<option value="${t}" ${t === zustand.typ ? "selected" : ""}>${t === "alle" ? "Alle Fragetypen" : TYPNAME[t]}</option>`).join("");
+  const filter = `<div class="filter">
+      <label for="f-typ">Typ <select id="f-typ">${opts}</select></label>
+      <label for="f-ab">ab Stufe <input id="f-ab" type="number" min="1" max="206" value="${zustand.ab}" style="width:4.5em"></label>
+      <span>${liste.length ? zustand.pos + 1 : 0} / ${liste.length}</span>
+    </div>
+    <div class="knopfreihe"><button class="zweit" id="zur">← Zurück</button><button class="zweit" id="vor">Weiter →</button><button class="zweit" id="heim">Startseite</button></div>`;
+  if (!q) { karte.innerHTML = filter + `<p class="klein">Keine Fragen für diese Auswahl.</p>`; }
+  else {
+    zeigeFrage(q, filter);
+    markiere(q, -1);
+    $("#rueck").innerHTML = `<div class="ergebnis gut"><span>${q.aufloesung}</span><span class="klein" style="text-align:left">ID: ${q.id}</span></div>`;
+  }
+  $("#f-typ").onchange = e => { zustand.typ = e.target.value; zustand.pos = 0; zeigeBrowser(); };
+  $("#f-ab").onchange = e => { zustand.ab = +e.target.value || 1; zustand.pos = 0; zeigeBrowser(); };
+  $("#zur").onclick = () => { zustand.pos--; zeigeBrowser(); };
+  $("#vor").onclick = () => { zustand.pos++; zeigeBrowser(); };
+  $("#heim").onclick = startseite;
+}
+
+function startseite() {
+  $("#stand").hidden = true;
+  karte.classList.add("start");
+  const parade = ["de", "jp", "br", "ca", "ch", "se", "gb", "kr"].map(c => `<img src="flaggen/${c}.svg" alt="">`).join("");
+  karte.innerHTML = `<div class="parade">${parade}</div>
+    <h1 class="frage">Wie viele Flaggen kennst du?</h1>
+    <p>Es geht leicht los und wird mit jeder Runde schwerer. Bei drei falschen Antworten ist Schluss. Schaffst du alle ${ABLAUF.length} Runden?</p>
+    <div class="knopfreihe"><button class="haupt" id="los">Los geht's!</button><button class="zweit" id="ansehen">Alle ${FRAGEN.length.toLocaleString("de-DE")} Fragen ansehen</button></div>`;
+  $("#los").onclick = startSpiel;
+  $("#ansehen").onclick = startBrowser;
+}
+
+Promise.all([fetch("fragen.json").then(r => r.json()), fetch("spielablauf.json").then(r => r.json()),
+             fetch("vorschau-varianten/index.json").then(r => r.ok ? r.json() : null).catch(() => null)])
+  .then(([f, a, v]) => {
+    FRAGEN = f.fragen; ABLAUF = a; VAR_INDEX = v;
+    FRAGEN.forEach(q => NACH_ID[q.id] = q);
+    startseite();
+  })
+  .catch(() => { karte.innerHTML = `<p class="klein">Die Fragen konnten nicht geladen werden. Bitte die Seite neu laden.</p>`; });
+</script>
